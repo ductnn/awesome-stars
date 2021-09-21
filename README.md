@@ -18,7 +18,7 @@
 
 ## C++ 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2005 LeetCode Problems
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2014 LeetCode Problems
 
 ## Dockerfile 
 
@@ -95,6 +95,7 @@
 
 ## Shell 
 
+- [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [justmeandopensource/kubernetes](https://github.com/justmeandopensource/kubernetes) - Kubernetes playground
 - [bakins/minikube-prometheus-demo](https://github.com/bakins/minikube-prometheus-demo) - Simple demo using minikube to deploy Prometheus and Grafana
 
