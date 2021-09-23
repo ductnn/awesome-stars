@@ -26,6 +26,7 @@
 
 ## Go 
 
+- [kubernetes/sample-cli-plugin](https://github.com/kubernetes/sample-cli-plugin) - Sample kubectl plugin
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
 - [AOEpeople/kube-container-exec](https://github.com/AOEpeople/kube-container-exec) - 
 - [ductnn/Simple-k8s-client](https://github.com/ductnn/Simple-k8s-client) - 
