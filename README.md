@@ -96,6 +96,7 @@
 
 ## Shell 
 
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [justmeandopensource/kubernetes](https://github.com/justmeandopensource/kubernetes) - Kubernetes playground
 - [bakins/minikube-prometheus-demo](https://github.com/bakins/minikube-prometheus-demo) - Simple demo using minikube to deploy Prometheus and Grafana
