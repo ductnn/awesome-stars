@@ -10,6 +10,7 @@
   - [Go](#go)
   - [Groovy](#groovy)
   - [HCL](#hcl)
+  - [HTML](#html)
   - [JavaScript](#javascript)
   - [MATLAB](#matlab)
   - [Others](#others)
@@ -50,6 +51,10 @@
 
 - [ductnn/terraform-til](https://github.com/ductnn/terraform-til) - TERRAFORM
 
+## HTML 
+
+- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+
 ## JavaScript 
 
 - [YannMjl/nodejs-demo-app](https://github.com/YannMjl/nodejs-demo-app) - 
@@ -66,6 +71,7 @@
 
 ## Others 
 
+- [operator-framework/awesome-operators](https://github.com/operator-framework/awesome-operators) - A resource tracking a number of Operators out in the wild.
 - [ValaxyTech/DevOpsDemos](https://github.com/ValaxyTech/DevOpsDemos) - 
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [priximmo/sommaire-xavki-devops-fr](https://github.com/priximmo/sommaire-xavki-devops-fr) - 
@@ -80,6 +86,8 @@
 
 ## Python 
 
+- [okteto/math](https://github.com/okteto/math) - Full stack Django demo
+- [IntrospectData/django-kubernetes-manager](https://github.com/IntrospectData/django-kubernetes-manager) - Django Kubernetes Manager is an open source project to wrap the complexity of Kubernetes management in the simplicity of Django Rest Framework.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps tools, platforms and resources
 - [PacktPublishing/Hands-On-Docker-for-Microservices-with-Python](https://github.com/PacktPublishing/Hands-On-Docker-for-Microservices-with-Python) - Hands-On Docker for Microservices with Python, published by Packt
