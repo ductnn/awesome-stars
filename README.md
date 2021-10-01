@@ -11,6 +11,7 @@
   - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
+  - [Java](#java)
   - [JavaScript](#javascript)
   - [MATLAB](#matlab)
   - [Others](#others)
@@ -56,6 +57,10 @@
 
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 
+## Java 
+
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
+
 ## JavaScript 
 
 - [YannMjl/nodejs-demo-app](https://github.com/YannMjl/nodejs-demo-app) - 
@@ -87,6 +92,8 @@
 
 ## Python 
 
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+- [gabrieldemarmiesse/python-on-whales](https://github.com/gabrieldemarmiesse/python-on-whales) - An awesome Python wrapper for an awesome Docker CLI!
 - [okteto/math](https://github.com/okteto/math) - Full stack Django demo
 - [IntrospectData/django-kubernetes-manager](https://github.com/IntrospectData/django-kubernetes-manager) - Django Kubernetes Manager is an open source project to wrap the complexity of Kubernetes management in the simplicity of Django Rest Framework.
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
