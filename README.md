@@ -20,7 +20,7 @@
 
 ## C++ 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2020 LeetCode Problems
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2021 LeetCode Problems
 
 ## Dockerfile 
 
@@ -28,6 +28,7 @@
 
 ## Go 
 
+- [johandry/klient](https://github.com/johandry/klient) - A Simple Kubernetes Client in Go
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [kubernetes/sample-cli-plugin](https://github.com/kubernetes/sample-cli-plugin) - Sample kubectl plugin
 - [marcel-dempers/docker-development-youtube-series](https://github.com/marcel-dempers/docker-development-youtube-series) - 
@@ -63,6 +64,7 @@
 
 ## JavaScript 
 
+- [mohamedlotfe/unit-testing-api-nodejs-jest](https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest) - 
 - [YannMjl/nodejs-demo-app](https://github.com/YannMjl/nodejs-demo-app) - 
 - [ductnn/ductnn](https://github.com/ductnn/ductnn) - :octocat: Github Profile
 - [Crizstian/cinema-microservice](https://github.com/Crizstian/cinema-microservice) - Example of a cinema microservice
