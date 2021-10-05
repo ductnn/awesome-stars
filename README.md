@@ -20,7 +20,7 @@
 
 ## C++ 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2021 LeetCode Problems
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2030 LeetCode Problems
 
 ## Dockerfile 
 
@@ -28,6 +28,7 @@
 
 ## Go 
 
+- [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [johandry/klient](https://github.com/johandry/klient) - A Simple Kubernetes Client in Go
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
 - [kubernetes/sample-cli-plugin](https://github.com/kubernetes/sample-cli-plugin) - Sample kubectl plugin
@@ -52,6 +53,7 @@
 
 ## HCL 
 
+- [trackit/terraform-boilerplate](https://github.com/trackit/terraform-boilerplate) - 
 - [ductnn/terraform-til](https://github.com/ductnn/terraform-til) - TERRAFORM
 
 ## HTML 
@@ -64,6 +66,7 @@
 
 ## JavaScript 
 
+- [alozano-77/AWS-SAA-C02-Course](https://github.com/alozano-77/AWS-SAA-C02-Course) - Personal notes for SAA-C02 test from: https://learn.cantrill.io
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [mohamedlotfe/unit-testing-api-nodejs-jest](https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest) - 
 - [YannMjl/nodejs-demo-app](https://github.com/YannMjl/nodejs-demo-app) - 
@@ -95,6 +98,7 @@
 
 ## Python 
 
+- [datarobot/ltparse](https://github.com/datarobot/ltparse) - Python tool for creating Terraform out of simple layout files
 - [beelit94/python-terraform](https://github.com/beelit94/python-terraform) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [gabrieldemarmiesse/python-on-whales](https://github.com/gabrieldemarmiesse/python-on-whales) - An awesome Python wrapper for an awesome Docker CLI!
