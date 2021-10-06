@@ -17,6 +17,7 @@
   - [Others](#others)
   - [Python](#python)
   - [Shell](#shell)
+  - [TypeScript](#typescript)
 
 ## C++ 
 
@@ -124,6 +125,10 @@
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [justmeandopensource/kubernetes](https://github.com/justmeandopensource/kubernetes) - Kubernetes playground
 - [bakins/minikube-prometheus-demo](https://github.com/bakins/minikube-prometheus-demo) - Simple demo using minikube to deploy Prometheus and Grafana
+
+## TypeScript 
+
+- [apptension/aws-boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
 
 
 ## License
