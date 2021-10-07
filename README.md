@@ -128,6 +128,7 @@
 
 ## TypeScript 
 
+- [Ensembl/ensembl-client](https://github.com/Ensembl/ensembl-client) - Ensembl 2020 client
 - [apptension/aws-boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
 
 
