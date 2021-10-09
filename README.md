@@ -17,6 +17,7 @@
   - [Others](#others)
   - [Python](#python)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [TypeScript](#typescript)
 
 ## C++ 
@@ -99,6 +100,7 @@
 
 ## Python 
 
+- [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
 - [datarobot/ltparse](https://github.com/datarobot/ltparse) - Python tool for creating Terraform out of simple layout files
 - [beelit94/python-terraform](https://github.com/beelit94/python-terraform) - 
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -125,6 +127,10 @@
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
 - [justmeandopensource/kubernetes](https://github.com/justmeandopensource/kubernetes) - Kubernetes playground
 - [bakins/minikube-prometheus-demo](https://github.com/bakins/minikube-prometheus-demo) - Simple demo using minikube to deploy Prometheus and Grafana
+
+## Smarty 
+
+- [MeanPug/django-prometheus-demo](https://github.com/MeanPug/django-prometheus-demo) - Basic demo application showcasing Django + Prometheus + Kubernetes
 
 ## TypeScript 
 
