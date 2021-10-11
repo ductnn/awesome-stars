@@ -22,7 +22,7 @@
 
 ## C++ 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2031 LeetCode Problems
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2035 LeetCode Problems
 
 ## Dockerfile 
 
@@ -68,6 +68,8 @@
 
 ## JavaScript 
 
+- [unimonkiez/react-platformula-boilerplate](https://github.com/unimonkiez/react-platformula-boilerplate) - Start developing a cross platform native app and website!
+- [ConsenSys/boilerplate-react](https://github.com/ConsenSys/boilerplate-react) - React app boilerplate by ConsenSys France
 - [alozano-77/AWS-SAA-C02-Course](https://github.com/alozano-77/AWS-SAA-C02-Course) - Personal notes for SAA-C02 test from: https://learn.cantrill.io
 - [hagopj13/node-express-boilerplate](https://github.com/hagopj13/node-express-boilerplate) - A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose
 - [mohamedlotfe/unit-testing-api-nodejs-jest](https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest) - 
@@ -135,6 +137,7 @@
 
 ## TypeScript 
 
+- [Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate](https://github.com/Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate) - A minimal and easy to follow example of what you need to create a CRUD style API in NodeJs using TypeScript
 - [Ensembl/ensembl-client](https://github.com/Ensembl/ensembl-client) - Ensembl 2020 client
 - [apptension/aws-boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
 
