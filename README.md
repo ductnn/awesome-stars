@@ -30,6 +30,7 @@
 
 ## Go 
 
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [johandry/klient](https://github.com/johandry/klient) - A Simple Kubernetes Client in Go
 - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples) - Sample apps and code written for Google Cloud in the Go programming language.
