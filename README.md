@@ -22,7 +22,7 @@
 
 ## C++ 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2035 LeetCode Problems
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2045 LeetCode Problems
 
 ## Dockerfile 
 
@@ -109,6 +109,7 @@
 
 ## Python 
 
+- [karmab/kcli](https://github.com/karmab/kcli) - Management tool for libvirt/aws/gcp/kubevirt/openstack/ovirt/vsphere/packet
 - [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
 - [datarobot/ltparse](https://github.com/datarobot/ltparse) - Python tool for creating Terraform out of simple layout files
 - [beelit94/python-terraform](https://github.com/beelit94/python-terraform) - 
