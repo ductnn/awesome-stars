@@ -30,6 +30,7 @@
 
 ## Go 
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [nicholasjackson/building-microservices-youtube](https://github.com/nicholasjackson/building-microservices-youtube) - Code repository for my Building Microservices YouTube series https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_
