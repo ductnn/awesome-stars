@@ -30,6 +30,8 @@
 
 ## Go 
 
+- [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
+- [wave-k8s/wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
 - [golang/go](https://github.com/golang/go) - The Go programming language
