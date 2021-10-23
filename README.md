@@ -22,7 +22,7 @@
 
 ## C++ 
 
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2045 LeetCode Problems
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2046 LeetCode Problems
 
 ## Dockerfile 
 
@@ -148,6 +148,7 @@
 
 ## TypeScript 
 
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.
 - [Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate](https://github.com/Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate) - A minimal and easy to follow example of what you need to create a CRUD style API in NodeJs using TypeScript
 - [Ensembl/ensembl-client](https://github.com/Ensembl/ensembl-client) - Ensembl 2020 client
 - [apptension/aws-boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
