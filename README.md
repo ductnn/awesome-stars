@@ -30,6 +30,7 @@
 
 ## Go 
 
+- [Pungyeon/clean-go](https://github.com/Pungyeon/clean-go) - 
 - [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [wave-k8s/wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
@@ -112,6 +113,7 @@
 
 ## Python 
 
+- [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [karmab/kcli](https://github.com/karmab/kcli) - Management tool for libvirt/aws/gcp/kubevirt/openstack/ovirt/vsphere/packet
 - [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
 - [datarobot/ltparse](https://github.com/datarobot/ltparse) - Python tool for creating Terraform out of simple layout files
