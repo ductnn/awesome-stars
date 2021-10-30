@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [C](#c)
   - [C++](#c++)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
@@ -20,8 +21,13 @@
   - [Smarty](#smarty)
   - [TypeScript](#typescript)
 
+## C 
+
+- [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+
 ## C++ 
 
+- [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
 - [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2050 LeetCode Problems
 
 ## Dockerfile 
@@ -77,6 +83,7 @@
 
 ## JavaScript 
 
+- [micheleriva/the-quotes-database](https://github.com/micheleriva/the-quotes-database) - The repository containing the code for the "Fulltext search with ElasticSearch and Node on Docker" article
 - [lucaschen/microservices-demo](https://github.com/lucaschen/microservices-demo) - 
 - [unimonkiez/react-platformula-boilerplate](https://github.com/unimonkiez/react-platformula-boilerplate) - Start developing a cross platform native app and website!
 - [ConsenSys/boilerplate-react](https://github.com/ConsenSys/boilerplate-react) - React app boilerplate by ConsenSys France
@@ -113,6 +120,7 @@
 
 ## Python 
 
+- [B3ns44d/Python_Sorting_Algorithms](https://github.com/B3ns44d/Python_Sorting_Algorithms) - Python - Sorting Algorithms
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [karmab/kcli](https://github.com/karmab/kcli) - Management tool for libvirt/aws/gcp/kubevirt/openstack/ovirt/vsphere/packet
 - [korfuri/django-prometheus](https://github.com/korfuri/django-prometheus) - Export Django monitoring metrics for Prometheus.io
