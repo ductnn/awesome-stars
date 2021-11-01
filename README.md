@@ -120,6 +120,7 @@
 
 ## Python 
 
+- [ductnn/sorting_algorithm](https://github.com/ductnn/sorting_algorithm) - A simple python application to visualize sorting algorithms.
 - [B3ns44d/Python_Sorting_Algorithms](https://github.com/B3ns44d/Python_Sorting_Algorithms) - Python - Sorting Algorithms
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
 - [karmab/kcli](https://github.com/karmab/kcli) - Management tool for libvirt/aws/gcp/kubevirt/openstack/ovirt/vsphere/packet
