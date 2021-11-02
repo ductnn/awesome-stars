@@ -28,7 +28,7 @@
 ## C++ 
 
 - [bingmann/sound-of-sorting](https://github.com/bingmann/sound-of-sorting) - The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2052 LeetCode Problems
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2060 LeetCode Problems
 
 ## Dockerfile 
 
@@ -36,6 +36,7 @@
 
 ## Go 
 
+- [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
 - [Pungyeon/clean-go](https://github.com/Pungyeon/clean-go) - 
 - [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
 - [wave-k8s/wave](https://github.com/wave-k8s/wave) - Kubernetes configuration tracking controller
@@ -110,7 +111,7 @@
 - [mfornos/awesome-microservices](https://github.com/mfornos/awesome-microservices) - A curated list of Microservice Architecture related principles and technologies.
 - [priximmo/sommaire-xavki-devops-fr](https://github.com/priximmo/sommaire-xavki-devops-fr) - 
 - [gurpreet0610/Deploy-Prometheus-Grafana-on-Kubernetes](https://github.com/gurpreet0610/Deploy-Prometheus-Grafana-on-Kubernetes) - 
-- [bibinwilson/kubernetes-prometheus](https://github.com/bibinwilson/kubernetes-prometheus) - Configuration files for setting up prometheus monitoring on Kubernetes cluster.
+- [bibinwilson/kubernetes-prometheus](https://github.com/bibinwilson/kubernetes-prometheus) - Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.
 - [ductnn/terraformer](https://github.com/ductnn/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [ductnn/pipelines](https://github.com/ductnn/pipelines) - Machine Learning Pipelines for Kubeflow
 - [ductnn/netbox](https://github.com/ductnn/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
