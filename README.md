@@ -84,6 +84,8 @@
 
 ## JavaScript 
 
+- [manmodesanket/sorting-visualizer](https://github.com/manmodesanket/sorting-visualizer) - Sorting algorithm Visualizer buit using VanillaJS
+- [dharshakch97/sort-visualizer](https://github.com/dharshakch97/sort-visualizer) - This repository for the web application sorting visualizer which is built using HTML, CSS, JS
 - [micheleriva/the-quotes-database](https://github.com/micheleriva/the-quotes-database) - The repository containing the code for the "Fulltext search with ElasticSearch and Node on Docker" article
 - [lucaschen/microservices-demo](https://github.com/lucaschen/microservices-demo) - 
 - [unimonkiez/react-platformula-boilerplate](https://github.com/unimonkiez/react-platformula-boilerplate) - Start developing a cross platform native app and website!
