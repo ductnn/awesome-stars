@@ -6,6 +6,7 @@
 ## Contents
 
   - [C](#c)
+  - [C#](#c#)
   - [C++](#c++)
   - [Dockerfile](#dockerfile)
   - [Go](#go)
@@ -24,6 +25,10 @@
 ## C 
 
 - [wg/wrk](https://github.com/wg/wrk) - Modern HTTP benchmarking tool
+
+## C# # 
+
+- [minhhungit/mongodb-cluster-docker-compose](https://github.com/minhhungit/mongodb-cluster-docker-compose) - Demo a simple sharded Mongo Cluster with a replication using docker compose
 
 ## C++ 
 
@@ -123,6 +128,7 @@
 
 ## Python 
 
+- [deepdivesec/GitMAD](https://github.com/deepdivesec/GitMAD) - Monitor, Alert, and Discover sensitive info and data leakage on Github.
 - [ductnn/sorting_algorithm](https://github.com/ductnn/sorting_algorithm) - A simple python application to visualize sorting algorithms.
 - [B3ns44d/Python_Sorting_Algorithms](https://github.com/B3ns44d/Python_Sorting_Algorithms) - Python - Sorting Algorithms
 - [LazoCoder/Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) - Pokemon terminal themes.
