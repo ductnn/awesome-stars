@@ -41,6 +41,7 @@
 
 ## Go 
 
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
 - [Pungyeon/clean-go](https://github.com/Pungyeon/clean-go) - 
 - [infinityworks/github-exporter](https://github.com/infinityworks/github-exporter) - :octocat: Prometheus exporter for github metrics
@@ -81,6 +82,7 @@
 
 ## HTML 
 
+- [vnspoj/vnspoj.github.io](https://github.com/vnspoj/vnspoj.github.io) - 💪Tutorial SPOJ 💪
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 
 ## Java 
@@ -120,9 +122,6 @@
 - [gurpreet0610/Deploy-Prometheus-Grafana-on-Kubernetes](https://github.com/gurpreet0610/Deploy-Prometheus-Grafana-on-Kubernetes) - 
 - [bibinwilson/kubernetes-prometheus](https://github.com/bibinwilson/kubernetes-prometheus) - Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.
 - [ductnn/terraformer](https://github.com/ductnn/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
-- [ductnn/pipelines](https://github.com/ductnn/pipelines) - Machine Learning Pipelines for Kubeflow
-- [ductnn/netbox](https://github.com/ductnn/netbox) - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-- [ductnn/netbox-docker](https://github.com/ductnn/netbox-docker) - 🐳  Docker Image of NetBox
 - [ductnn/Python](https://github.com/ductnn/Python) - All Algorithms implemented in Python
 - [97-things/97-things-every-programmer-should-know](https://github.com/97-things/97-things-every-programmer-should-know) - Pearls of wisdom for programmers collected from leading practitioners.
 
@@ -156,6 +155,7 @@
 
 ## Shell 
 
+- [aws/containers-roadmap](https://github.com/aws/containers-roadmap) - This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook
 - [geerlingguy/mac-dev-playbook](https://github.com/geerlingguy/mac-dev-playbook) - Mac setup and configuration via Ansible.
