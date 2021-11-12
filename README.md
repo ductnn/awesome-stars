@@ -21,6 +21,7 @@
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [TypeScript](#typescript)
+  - [Vim script](#vim-script)
 
 ## C 
 
@@ -127,6 +128,8 @@
 
 ## Python 
 
+- [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
+- [kubernetes-client/python](https://github.com/kubernetes-client/python) - Official Python client library for kubernetes
 - [deepdivesec/GitMAD](https://github.com/deepdivesec/GitMAD) - Monitor, Alert, and Discover sensitive info and data leakage on Github.
 - [ductnn/sorting_algorithm](https://github.com/ductnn/sorting_algorithm) - A simple python application to visualize sorting algorithms.
 - [B3ns44d/Python_Sorting_Algorithms](https://github.com/B3ns44d/Python_Sorting_Algorithms) - Python - Sorting Algorithms
@@ -172,6 +175,10 @@
 - [Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate](https://github.com/Sean-Bradley/Seans-TypeScript-NodeJS-CRUD-REST-API-Boilerplate) - A minimal and easy to follow example of what you need to create a CRUD style API in NodeJs using TypeScript
 - [Ensembl/ensembl-client](https://github.com/Ensembl/ensembl-client) - Ensembl 2020 client
 - [apptension/aws-boilerplate](https://github.com/apptension/aws-boilerplate) - Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.
+
+## Vim script 
+
+- [nickjj/dotfiles](https://github.com/nickjj/dotfiles) - Settings for various tools I use.
 
 
 ## License
