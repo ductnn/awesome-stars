@@ -42,6 +42,8 @@
 
 ## Go 
 
+- [abhirockzz/kubernetes-configmap-auto-update](https://github.com/abhirockzz/kubernetes-configmap-auto-update) - Automatically update your Kubernetes app configuration using this technique
+- [kei6u/kubectl-secret-data](https://github.com/kei6u/kubectl-secret-data) - A kubectl plugin for finding decoded secret data with productive search flags.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies) - Kubernetes deployment strategies explained
 - [Pungyeon/clean-go](https://github.com/Pungyeon/clean-go) - 
