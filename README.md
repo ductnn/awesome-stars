@@ -223,13 +223,14 @@
 
 | Index |           Name           |                   Repository URL                   |                                       Description                                       |
 | ----: | ------------------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------- |
-|     1 | awesome-kubernetes       | https://github.com/ramitsurana/awesome-kubernetes  | A curated list for awesome kubernetes sources :ship::tada:                              |
-|     2 | containers-roadmap       | https://github.com/aws/containers-roadmap          | This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).     |
-|     3 | Docker-OSX               | https://github.com/sickcodes/Docker-OSX            | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-|     4 | kubernetes-handbook      | https://github.com/rootsongjc/kubernetes-handbook  | Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook   |
-|     5 | mac-dev-playbook         | https://github.com/geerlingguy/mac-dev-playbook    | Mac setup and configuration via Ansible.                                                |
-|     6 | kubernetes               | https://github.com/justmeandopensource/kubernetes  | Kubernetes playground                                                                   |
-|     7 | minikube-prometheus-demo | https://github.com/bakins/minikube-prometheus-demo | Simple demo using minikube to deploy Prometheus and Grafana                             |
+|     1 | ghichep-OpenStack        | https://github.com/hocchudong/ghichep-OpenStack    |                                                                                         |
+|     2 | awesome-kubernetes       | https://github.com/ramitsurana/awesome-kubernetes  | A curated list for awesome kubernetes sources :ship::tada:                              |
+|     3 | containers-roadmap       | https://github.com/aws/containers-roadmap          | This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).     |
+|     4 | Docker-OSX               | https://github.com/sickcodes/Docker-OSX            | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
+|     5 | kubernetes-handbook      | https://github.com/rootsongjc/kubernetes-handbook  | Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook   |
+|     6 | mac-dev-playbook         | https://github.com/geerlingguy/mac-dev-playbook    | Mac setup and configuration via Ansible.                                                |
+|     7 | kubernetes               | https://github.com/justmeandopensource/kubernetes  | Kubernetes playground                                                                   |
+|     8 | minikube-prometheus-demo | https://github.com/bakins/minikube-prometheus-demo | Simple demo using minikube to deploy Prometheus and Grafana                             |
 
 
 ## Smarty 
