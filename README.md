@@ -46,7 +46,7 @@
 | Index |        Name        |                 Repository URL                 |                                   Description                                   |
 | ----: | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------- |
 |     1 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms |
-|     2 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2076 LeetCode Problems  |
+|     2 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ (Weekly Update) Python / Modern C++ Solutions of All 2081 LeetCode Problems  |
 
 
 ## Dockerfile 
@@ -168,18 +168,19 @@
 
 | Index |                  Name                   |                             Repository URL                              |                                                  Description                                                  |
 | ----: | --------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-|     1 | awesome-prometheus                      | https://github.com/roaldnefs/awesome-prometheus                         | A curated list of awesome Prometheus resources, projects and tools.                                           |
-|     2 | awesome-docker                          | https://github.com/veggiemonk/awesome-docker                            | :whale: A curated list of Docker resources and projects                                                       |
-|     3 | open-source-badges                      | https://github.com/ellerbrock/open-source-badges                        | :octocat: Open Source & Licence Badges                                                                        |
-|     4 | awesome-operators                       | https://github.com/operator-framework/awesome-operators                 | A resource tracking a number of Operators out in the wild.                                                    |
-|     5 | DevOpsDemos                             | https://github.com/ValaxyTech/DevOpsDemos                               |                                                                                                               |
-|     6 | awesome-microservices                   | https://github.com/mfornos/awesome-microservices                        | A curated list of Microservice Architecture related principles and technologies.                              |
-|     7 | sommaire-xavki-devops-fr                | https://github.com/priximmo/sommaire-xavki-devops-fr                    |                                                                                                               |
-|     8 | Deploy-Prometheus-Grafana-on-Kubernetes | https://github.com/gurpreet0610/Deploy-Prometheus-Grafana-on-Kubernetes |                                                                                                               |
-|     9 | kubernetes-prometheus                   | https://github.com/bibinwilson/kubernetes-prometheus                    | Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.                     |
-|    10 | terraformer                             | https://github.com/ductnn/terraformer                                   | CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code |
-|    11 | Python                                  | https://github.com/ductnn/Python                                        | All Algorithms implemented in Python                                                                          |
-|    12 | 97-things-every-programmer-should-know  | https://github.com/97-things/97-things-every-programmer-should-know     | Pearls of wisdom for programmers collected from leading practitioners.                                        |
+|     1 | gitignore                               | https://github.com/github/gitignore                                     | A collection of useful .gitignore templates                                                                   |
+|     2 | awesome-prometheus                      | https://github.com/roaldnefs/awesome-prometheus                         | A curated list of awesome Prometheus resources, projects and tools.                                           |
+|     3 | awesome-docker                          | https://github.com/veggiemonk/awesome-docker                            | :whale: A curated list of Docker resources and projects                                                       |
+|     4 | open-source-badges                      | https://github.com/ellerbrock/open-source-badges                        | :octocat: Open Source & Licence Badges                                                                        |
+|     5 | awesome-operators                       | https://github.com/operator-framework/awesome-operators                 | A resource tracking a number of Operators out in the wild.                                                    |
+|     6 | DevOpsDemos                             | https://github.com/ValaxyTech/DevOpsDemos                               |                                                                                                               |
+|     7 | awesome-microservices                   | https://github.com/mfornos/awesome-microservices                        | A curated list of Microservice Architecture related principles and technologies.                              |
+|     8 | sommaire-xavki-devops-fr                | https://github.com/priximmo/sommaire-xavki-devops-fr                    |                                                                                                               |
+|     9 | Deploy-Prometheus-Grafana-on-Kubernetes | https://github.com/gurpreet0610/Deploy-Prometheus-Grafana-on-Kubernetes |                                                                                                               |
+|    10 | kubernetes-prometheus                   | https://github.com/bibinwilson/kubernetes-prometheus                    | Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.                     |
+|    11 | terraformer                             | https://github.com/ductnn/terraformer                                   | CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code |
+|    12 | Python                                  | https://github.com/ductnn/Python                                        | All Algorithms implemented in Python                                                                          |
+|    13 | 97-things-every-programmer-should-know  | https://github.com/97-things/97-things-every-programmer-should-know     | Pearls of wisdom for programmers collected from leading practitioners.                                        |
 
 
 ## Python 
