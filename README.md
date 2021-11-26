@@ -105,9 +105,10 @@
 
 ## Groovy 
 
-| Index |         Name         |                  Repository URL                  |                       Description                        |
-| ----: | -------------------- | ------------------------------------------------ | -------------------------------------------------------- |
-|     1 | gradle-docker-plugin | https://github.com/bmuschko/gradle-docker-plugin | Gradle plugin for managing Docker images and containers. |
+| Index |         Name         |                  Repository URL                  |                                                                   Description                                                                   |
+| ----: | -------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | devops-resources     | https://github.com/bregman-arie/devops-resources | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
+|     2 | gradle-docker-plugin | https://github.com/bmuschko/gradle-docker-plugin | Gradle plugin for managing Docker images and containers.                                                                                        |
 
 
 ## HCL 
@@ -225,16 +226,17 @@
 
 ## Shell 
 
-| Index |           Name           |                   Repository URL                   |                                       Description                                       |
-| ----: | ------------------------ | -------------------------------------------------- | --------------------------------------------------------------------------------------- |
-|     1 | ghichep-OpenStack        | https://github.com/hocchudong/ghichep-OpenStack    |                                                                                         |
-|     2 | awesome-kubernetes       | https://github.com/ramitsurana/awesome-kubernetes  | A curated list for awesome kubernetes sources :ship::tada:                              |
-|     3 | containers-roadmap       | https://github.com/aws/containers-roadmap          | This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).     |
-|     4 | Docker-OSX               | https://github.com/sickcodes/Docker-OSX            | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X! |
-|     5 | kubernetes-handbook      | https://github.com/rootsongjc/kubernetes-handbook  | Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook   |
-|     6 | mac-dev-playbook         | https://github.com/geerlingguy/mac-dev-playbook    | Mac setup and configuration via Ansible.                                                |
-|     7 | kubernetes               | https://github.com/justmeandopensource/kubernetes  | Kubernetes playground                                                                   |
-|     8 | minikube-prometheus-demo | https://github.com/bakins/minikube-prometheus-demo | Simple demo using minikube to deploy Prometheus and Grafana                             |
+| Index |           Name           |                   Repository URL                   |                                                                                    Description                                                                                     |
+| ----: | ------------------------ | -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | aws-devops-essential     | https://github.com/awslabs/aws-devops-essential    | In few hours, quickly learn how to effectively leverage various AWS services to improve developer productivity and reduce the overall time to market for new product capabilities. |
+|     2 | ghichep-OpenStack        | https://github.com/hocchudong/ghichep-OpenStack    |                                                                                                                                                                                    |
+|     3 | awesome-kubernetes       | https://github.com/ramitsurana/awesome-kubernetes  | A curated list for awesome kubernetes sources :ship::tada:                                                                                                                         |
+|     4 | containers-roadmap       | https://github.com/aws/containers-roadmap          | This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS).                                                                                                |
+|     5 | Docker-OSX               | https://github.com/sickcodes/Docker-OSX            | Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!                                                                                            |
+|     6 | kubernetes-handbook      | https://github.com/rootsongjc/kubernetes-handbook  | Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook                                                                                              |
+|     7 | mac-dev-playbook         | https://github.com/geerlingguy/mac-dev-playbook    | Mac setup and configuration via Ansible.                                                                                                                                           |
+|     8 | kubernetes               | https://github.com/justmeandopensource/kubernetes  | Kubernetes playground                                                                                                                                                              |
+|     9 | minikube-prometheus-demo | https://github.com/bakins/minikube-prometheus-demo | Simple demo using minikube to deploy Prometheus and Grafana                                                                                                                        |
 
 
 ## Smarty 
