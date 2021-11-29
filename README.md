@@ -234,7 +234,6 @@
 |    29 | pipelines                                     | https://github.com/kubeflow/pipelines                                            | Machine Learning Pipelines for Kubeflow                                                                                                                                                         |
 |    30 | netbox                                        | https://github.com/netbox-community/netbox                                       | Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev                                                                       |
 |    31 | netbox-docker                                 | https://github.com/netbox-community/netbox-docker                                | 🐳  Docker Image of NetBox                                                                                                                                                                      |
-|    32 | Python-tu                                     | https://github.com/ductnn/Python-tu                                              | Start with Python ...                                                                                                                                                                           |
 
 
 ## Shell 
