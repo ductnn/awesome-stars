@@ -27,6 +27,7 @@
   - [Smarty](#smarty)
   - [TypeScript](#typescript)
   - [Vim script](#vim-script)
+  - [Vue](#vue)
 
 ## C 
 
@@ -134,9 +135,10 @@
 
 ## Java 
 
-| Index |  Name   |           Repository URL           |                               Description                                |
-| ----: | ------- | ---------------------------------- | ------------------------------------------------------------------------ |
-|     1 | questdb | https://github.com/questdb/questdb | An open source SQL database designed to process time series data, faster |
+| Index |   Name   |               Repository URL               |                               Description                                |
+| ----: | -------- | ------------------------------------------ | ------------------------------------------------------------------------ |
+|     1 | leetcode | https://github.com/gouthampradhan/leetcode | Leetcode solutions                                                       |
+|     2 | questdb  | https://github.com/questdb/questdb         | An open source SQL database designed to process time series data, faster |
 
 
 ## JavaScript 
@@ -283,6 +285,13 @@
 | Index |   Name   |           Repository URL           |            Description            |
 | ----: | -------- | ---------------------------------- | --------------------------------- |
 |     1 | dotfiles | https://github.com/nickjj/dotfiles | Settings for various tools I use. |
+
+
+## Vue 
+
+| Index |   Name   |            Repository URL            |             Description             |
+| ----: | -------- | ------------------------------------ | ----------------------------------- |
+|     1 | dockeron | https://github.com/dockeron/dockeron | 🤖🤖🤖 Electron + Vue.js for Docker |
 
 
 
