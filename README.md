@@ -136,10 +136,11 @@
 
 ## Java 
 
-| Index |   Name   |               Repository URL               |                               Description                                |
-| ----: | -------- | ------------------------------------------ | ------------------------------------------------------------------------ |
-|     1 | leetcode | https://github.com/gouthampradhan/leetcode | Leetcode solutions                                                       |
-|     2 | questdb  | https://github.com/questdb/questdb         | An open source SQL database designed to process time series data, faster |
+| Index |         Name          |                    Repository URL                     |                                            Description                                            |
+| ----: | --------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+|     1 | simple-java-maven-app | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven. |
+|     2 | leetcode              | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                |
+|     3 | questdb               | https://github.com/questdb/questdb                    | An open source SQL database designed to process time series data, faster                          |
 
 
 ## JavaScript 
