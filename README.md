@@ -136,11 +136,12 @@
 
 ## Java 
 
-| Index |         Name          |                    Repository URL                     |                                            Description                                            |
-| ----: | --------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-|     1 | simple-java-maven-app | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven. |
-|     2 | leetcode              | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                |
-|     3 | questdb               | https://github.com/questdb/questdb                    | An open source SQL database designed to process time series data, faster                          |
+| Index |          Name           |                    Repository URL                     |                                            Description                                            |
+| ----: | ----------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+|     1 | JavaFX_CRUD_Application | https://github.com/JinyKafe/JavaFX_CRUD_Application   | Simple User CRUD application. With JavaFx, Java 11, Spring Boot 2, JavaFx Weaver                  |
+|     2 | simple-java-maven-app   | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven. |
+|     3 | leetcode                | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                |
+|     4 | questdb                 | https://github.com/questdb/questdb                    | An open source SQL database designed to process time series data, faster                          |
 
 
 ## JavaScript 
@@ -183,21 +184,22 @@
 
 | Index |                  Name                   |                             Repository URL                              |                                                  Description                                                  |
 | ----: | --------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-|     1 | awesome-kubernetes-security             | https://github.com/ksoclabs/awesome-kubernetes-security                 | A curated list of awesome Kubernetes security resources                                                       |
-|     2 | awesome-workflow-engines                | https://github.com/meirwah/awesome-workflow-engines                     | A curated list of awesome open source workflow engines                                                        |
-|     3 | gitignore                               | https://github.com/github/gitignore                                     | A collection of useful .gitignore templates                                                                   |
-|     4 | awesome-prometheus                      | https://github.com/roaldnefs/awesome-prometheus                         | A curated list of awesome Prometheus resources, projects and tools.                                           |
-|     5 | awesome-docker                          | https://github.com/veggiemonk/awesome-docker                            | :whale: A curated list of Docker resources and projects                                                       |
-|     6 | open-source-badges                      | https://github.com/ellerbrock/open-source-badges                        | :octocat: Open Source & Licence Badges                                                                        |
-|     7 | awesome-operators                       | https://github.com/operator-framework/awesome-operators                 | A resource tracking a number of Operators out in the wild.                                                    |
-|     8 | DevOpsDemos                             | https://github.com/ValaxyTech/DevOpsDemos                               |                                                                                                               |
-|     9 | awesome-microservices                   | https://github.com/mfornos/awesome-microservices                        | A curated list of Microservice Architecture related principles and technologies.                              |
-|    10 | sommaire-xavki-devops-fr                | https://github.com/priximmo/sommaire-xavki-devops-fr                    |                                                                                                               |
-|    11 | Deploy-Prometheus-Grafana-on-Kubernetes | https://github.com/gurpreet0610/Deploy-Prometheus-Grafana-on-Kubernetes |                                                                                                               |
-|    12 | kubernetes-prometheus                   | https://github.com/bibinwilson/kubernetes-prometheus                    | Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.                     |
-|    13 | terraformer                             | https://github.com/ductnn/terraformer                                   | CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code |
-|    14 | Python                                  | https://github.com/ductnn/Python                                        | All Algorithms implemented in Python                                                                          |
-|    15 | 97-things-every-programmer-should-know  | https://github.com/97-things/97-things-every-programmer-should-know     | Pearls of wisdom for programmers collected from leading practitioners.                                        |
+|     1 | design-pattern                          | https://github.com/Ren0503/design-pattern                               | Design patterns                                                                                               |
+|     2 | awesome-kubernetes-security             | https://github.com/ksoclabs/awesome-kubernetes-security                 | A curated list of awesome Kubernetes security resources                                                       |
+|     3 | awesome-workflow-engines                | https://github.com/meirwah/awesome-workflow-engines                     | A curated list of awesome open source workflow engines                                                        |
+|     4 | gitignore                               | https://github.com/github/gitignore                                     | A collection of useful .gitignore templates                                                                   |
+|     5 | awesome-prometheus                      | https://github.com/roaldnefs/awesome-prometheus                         | A curated list of awesome Prometheus resources, projects and tools.                                           |
+|     6 | awesome-docker                          | https://github.com/veggiemonk/awesome-docker                            | :whale: A curated list of Docker resources and projects                                                       |
+|     7 | open-source-badges                      | https://github.com/ellerbrock/open-source-badges                        | :octocat: Open Source & Licence Badges                                                                        |
+|     8 | awesome-operators                       | https://github.com/operator-framework/awesome-operators                 | A resource tracking a number of Operators out in the wild.                                                    |
+|     9 | DevOpsDemos                             | https://github.com/ValaxyTech/DevOpsDemos                               |                                                                                                               |
+|    10 | awesome-microservices                   | https://github.com/mfornos/awesome-microservices                        | A curated list of Microservice Architecture related principles and technologies.                              |
+|    11 | sommaire-xavki-devops-fr                | https://github.com/priximmo/sommaire-xavki-devops-fr                    |                                                                                                               |
+|    12 | Deploy-Prometheus-Grafana-on-Kubernetes | https://github.com/gurpreet0610/Deploy-Prometheus-Grafana-on-Kubernetes |                                                                                                               |
+|    13 | kubernetes-prometheus                   | https://github.com/bibinwilson/kubernetes-prometheus                    | Kubernetes Manifest files for setting up Prometheus monitoring on the Kubernetes cluster.                     |
+|    14 | terraformer                             | https://github.com/ductnn/terraformer                                   | CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code |
+|    15 | Python                                  | https://github.com/ductnn/Python                                        | All Algorithms implemented in Python                                                                          |
+|    16 | 97-things-every-programmer-should-know  | https://github.com/97-things/97-things-every-programmer-should-know     | Pearls of wisdom for programmers collected from leading practitioners.                                        |
 
 
 ## PHP 
