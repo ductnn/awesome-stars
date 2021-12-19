@@ -48,7 +48,7 @@
 | Index |        Name        |                 Repository URL                 |                                   Description                                   |
 | ----: | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------- |
 |     1 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms |
-|     2 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2097 LeetCode Problems (Weekly Update)  |
+|     2 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2107 LeetCode Problems (Weekly Update)  |
 
 
 ## Dockerfile 
