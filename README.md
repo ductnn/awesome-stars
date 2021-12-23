@@ -48,7 +48,7 @@
 | Index |        Name        |                 Repository URL                 |                                   Description                                   |
 | ----: | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------- |
 |     1 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms |
-|     2 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2111 LeetCode Problems (Weekly Update)  |
+|     2 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2112 LeetCode Problems (Weekly Update)  |
 
 
 ## Dockerfile 
@@ -138,10 +138,12 @@
 
 | Index |          Name           |                    Repository URL                     |                                            Description                                            |
 | ----: | ----------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-|     1 | JavaFX_CRUD_Application | https://github.com/JinyKafe/JavaFX_CRUD_Application   | Simple User CRUD application. With JavaFx, Java 11, Spring Boot 2, JavaFx Weaver                  |
-|     2 | simple-java-maven-app   | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven. |
-|     3 | leetcode                | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                |
-|     4 | questdb                 | https://github.com/questdb/questdb                    | An open source SQL database designed to process time series data, faster                          |
+|     1 | Java-Sockets            | https://github.com/wangai/Java-Sockets                | A java Client-Server app that shows implementation of Java Socket programming                     |
+|     2 | java-socket-chat        | https://github.com/toanbku/java-socket-chat           |                                                                                                   |
+|     3 | JavaFX_CRUD_Application | https://github.com/JinyKafe/JavaFX_CRUD_Application   | Simple User CRUD application. With JavaFx, Java 11, Spring Boot 2, JavaFx Weaver                  |
+|     4 | simple-java-maven-app   | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven. |
+|     5 | leetcode                | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                |
+|     6 | questdb                 | https://github.com/questdb/questdb                    | An open source SQL database designed to process time series data, faster                          |
 
 
 ## JavaScript 
