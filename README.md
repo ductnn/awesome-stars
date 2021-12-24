@@ -150,22 +150,23 @@
 
 | Index |             Name              |                        Repository URL                        |                                                Description                                                 |
 | ----: | ----------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-|     1 | sorting-visualizer            | https://github.com/manmodesanket/sorting-visualizer          | Sorting algorithm Visualizer buit using VanillaJS                                                          |
-|     2 | sort-visualizer               | https://github.com/dharshakch97/sort-visualizer              | This repository for the web application sorting visualizer which is built using HTML, CSS, JS              |
-|     3 | the-quotes-database           | https://github.com/micheleriva/the-quotes-database           | The repository containing the code for the "Fulltext search with ElasticSearch and Node on Docker" article |
-|     4 | microservices-demo            | https://github.com/lucaschen/microservices-demo              |                                                                                                            |
-|     5 | react-platformula-boilerplate | https://github.com/unimonkiez/react-platformula-boilerplate  | Start developing a cross platform native app and website!                                                  |
-|     6 | boilerplate-react             | https://github.com/ConsenSys/boilerplate-react               | React app boilerplate by ConsenSys France                                                                  |
-|     7 | AWS-SAA-C02-Course            | https://github.com/alozano-77/AWS-SAA-C02-Course             | Personal notes for SAA-C02 test from: https://learn.cantrill.io                                            |
-|     8 | node-express-boilerplate      | https://github.com/hagopj13/node-express-boilerplate         | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose              |
-|     9 | unit-testing-api-nodejs-jest  | https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest |                                                                                                            |
-|    10 | nodejs-demo-app               | https://github.com/YannMjl/nodejs-demo-app                   |                                                                                                            |
-|    11 | ductnn                        | https://github.com/ductnn/ductnn                             | :octocat: Github Profile                                                                                   |
-|    12 | cinema-microservice           | https://github.com/Crizstian/cinema-microservice             | Example of a cinema microservice                                                                           |
-|    13 | ductnn.github.io              | https://github.com/ductnn/ductnn.github.io                   | My Blog                                                                                                    |
-|    14 | ntmap                         | https://github.com/den-it/ntmap                              | Network topology map using Netbox as a data source                                                         |
-|    15 | Demo-git                      | https://github.com/ductnn/Demo-git                           | Demo Git                                                                                                   |
-|    16 | codelomdom-demo               | https://github.com/ductnn/codelomdom-demo                    |                                                                                                            |
+|     1 | nextjs-scraper-playground     | https://github.com/johnpolacek/nextjs-scraper-playground     | Build and test your own web scraper APIs with Next.js API Routes and cheerio                               |
+|     2 | sorting-visualizer            | https://github.com/manmodesanket/sorting-visualizer          | Sorting algorithm Visualizer buit using VanillaJS                                                          |
+|     3 | sort-visualizer               | https://github.com/dharshakch97/sort-visualizer              | This repository for the web application sorting visualizer which is built using HTML, CSS, JS              |
+|     4 | the-quotes-database           | https://github.com/micheleriva/the-quotes-database           | The repository containing the code for the "Fulltext search with ElasticSearch and Node on Docker" article |
+|     5 | microservices-demo            | https://github.com/lucaschen/microservices-demo              |                                                                                                            |
+|     6 | react-platformula-boilerplate | https://github.com/unimonkiez/react-platformula-boilerplate  | Start developing a cross platform native app and website!                                                  |
+|     7 | boilerplate-react             | https://github.com/ConsenSys/boilerplate-react               | React app boilerplate by ConsenSys France                                                                  |
+|     8 | AWS-SAA-C02-Course            | https://github.com/alozano-77/AWS-SAA-C02-Course             | Personal notes for SAA-C02 test from: https://learn.cantrill.io                                            |
+|     9 | node-express-boilerplate      | https://github.com/hagopj13/node-express-boilerplate         | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose              |
+|    10 | unit-testing-api-nodejs-jest  | https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest |                                                                                                            |
+|    11 | nodejs-demo-app               | https://github.com/YannMjl/nodejs-demo-app                   |                                                                                                            |
+|    12 | ductnn                        | https://github.com/ductnn/ductnn                             | :octocat: Github Profile                                                                                   |
+|    13 | cinema-microservice           | https://github.com/Crizstian/cinema-microservice             | Example of a cinema microservice                                                                           |
+|    14 | ductnn.github.io              | https://github.com/ductnn/ductnn.github.io                   | My Blog                                                                                                    |
+|    15 | ntmap                         | https://github.com/den-it/ntmap                              | Network topology map using Netbox as a data source                                                         |
+|    16 | Demo-git                      | https://github.com/ductnn/Demo-git                           | Demo Git                                                                                                   |
+|    17 | codelomdom-demo               | https://github.com/ductnn/codelomdom-demo                    |                                                                                                            |
 
 
 ## MATLAB 
