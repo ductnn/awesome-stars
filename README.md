@@ -169,25 +169,26 @@
 
 | Index |             Name              |                        Repository URL                        |                                                Description                                                 |
 | ----: | ----------------------------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-|     1 | serverless-plugin-warmup      | https://github.com/juanjoDiaz/serverless-plugin-warmup       | Keep your lambdas warm during winter. ♨                                                                    |
-|     2 | portainer                     | https://github.com/portainer/portainer                       | Making Docker and Kubernetes management easy.                                                              |
-|     3 | nextjs-scraper-playground     | https://github.com/johnpolacek/nextjs-scraper-playground     | Build and test your own web scraper APIs with Next.js API Routes and cheerio                               |
-|     4 | sorting-visualizer            | https://github.com/manmodesanket/sorting-visualizer          | Sorting algorithm Visualizer buit using VanillaJS                                                          |
-|     5 | sort-visualizer               | https://github.com/dharshakch97/sort-visualizer              | This repository for the web application sorting visualizer which is built using HTML, CSS, JS              |
-|     6 | the-quotes-database           | https://github.com/micheleriva/the-quotes-database           | The repository containing the code for the "Fulltext search with ElasticSearch and Node on Docker" article |
-|     7 | microservices-demo            | https://github.com/lucaschen/microservices-demo              |                                                                                                            |
-|     8 | react-platformula-boilerplate | https://github.com/unimonkiez/react-platformula-boilerplate  | Start developing a cross platform native app and website!                                                  |
-|     9 | boilerplate-react             | https://github.com/ConsenSys/boilerplate-react               | React app boilerplate by ConsenSys France                                                                  |
-|    10 | AWS-SAA-C02-Course            | https://github.com/alozano-77/AWS-SAA-C02-Course             | Personal notes for SAA-C02 test from: https://learn.cantrill.io                                            |
-|    11 | node-express-boilerplate      | https://github.com/hagopj13/node-express-boilerplate         | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose              |
-|    12 | unit-testing-api-nodejs-jest  | https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest |                                                                                                            |
-|    13 | nodejs-demo-app               | https://github.com/YannMjl/nodejs-demo-app                   |                                                                                                            |
-|    14 | ductnn                        | https://github.com/ductnn/ductnn                             | :octocat: Github Profile                                                                                   |
-|    15 | cinema-microservice           | https://github.com/Crizstian/cinema-microservice             | Example of a cinema microservice                                                                           |
-|    16 | ductnn.github.io              | https://github.com/ductnn/ductnn.github.io                   | My Blog                                                                                                    |
-|    17 | ntmap                         | https://github.com/den-it/ntmap                              | Network topology map using Netbox as a data source                                                         |
-|    18 | Demo-git                      | https://github.com/ductnn/Demo-git                           | Demo Git                                                                                                   |
-|    19 | codelomdom-demo               | https://github.com/ductnn/codelomdom-demo                    |                                                                                                            |
+|     1 | knote-js                      | https://github.com/learnk8s/knote-js                         | Code for the Knote course with Node.js                                                                     |
+|     2 | serverless-plugin-warmup      | https://github.com/juanjoDiaz/serverless-plugin-warmup       | Keep your lambdas warm during winter. ♨                                                                    |
+|     3 | portainer                     | https://github.com/portainer/portainer                       | Making Docker and Kubernetes management easy.                                                              |
+|     4 | nextjs-scraper-playground     | https://github.com/johnpolacek/nextjs-scraper-playground     | Build and test your own web scraper APIs with Next.js API Routes and cheerio                               |
+|     5 | sorting-visualizer            | https://github.com/manmodesanket/sorting-visualizer          | Sorting algorithm Visualizer buit using VanillaJS                                                          |
+|     6 | sort-visualizer               | https://github.com/dharshakch97/sort-visualizer              | This repository for the web application sorting visualizer which is built using HTML, CSS, JS              |
+|     7 | the-quotes-database           | https://github.com/micheleriva/the-quotes-database           | The repository containing the code for the "Fulltext search with ElasticSearch and Node on Docker" article |
+|     8 | microservices-demo            | https://github.com/lucaschen/microservices-demo              |                                                                                                            |
+|     9 | react-platformula-boilerplate | https://github.com/unimonkiez/react-platformula-boilerplate  | Start developing a cross platform native app and website!                                                  |
+|    10 | boilerplate-react             | https://github.com/ConsenSys/boilerplate-react               | React app boilerplate by ConsenSys France                                                                  |
+|    11 | AWS-SAA-C02-Course            | https://github.com/alozano-77/AWS-SAA-C02-Course             | Personal notes for SAA-C02 test from: https://learn.cantrill.io                                            |
+|    12 | node-express-boilerplate      | https://github.com/hagopj13/node-express-boilerplate         | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose              |
+|    13 | unit-testing-api-nodejs-jest  | https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest |                                                                                                            |
+|    14 | nodejs-demo-app               | https://github.com/YannMjl/nodejs-demo-app                   |                                                                                                            |
+|    15 | ductnn                        | https://github.com/ductnn/ductnn                             | :octocat: Github Profile                                                                                   |
+|    16 | cinema-microservice           | https://github.com/Crizstian/cinema-microservice             | Example of a cinema microservice                                                                           |
+|    17 | ductnn.github.io              | https://github.com/ductnn/ductnn.github.io                   | My Blog                                                                                                    |
+|    18 | ntmap                         | https://github.com/den-it/ntmap                              | Network topology map using Netbox as a data source                                                         |
+|    19 | Demo-git                      | https://github.com/ductnn/Demo-git                           | Demo Git                                                                                                   |
+|    20 | codelomdom-demo               | https://github.com/ductnn/codelomdom-demo                    |                                                                                                            |
 
 
 ## Jupyter Notebook 
@@ -235,9 +236,10 @@
 
 ## PHP 
 
-| Index |        Name         |                  Repository URL                   |              Description              |
-| ----: | ------------------- | ------------------------------------------------- | ------------------------------------- |
-|     1 | simple-fuzzy-search | https://github.com/wataridori/simple-fuzzy-search | A Simple Fuzzy Search Package for PHP |
+| Index |             Name             |                         Repository URL                         |                                Description                                 |
+| ----: | ---------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- |
+|     1 | github-profile-views-counter | https://github.com/arturssmirnovs/github-profile-views-counter | Github new features README profile views counter made with Yii2 framework. |
+|     2 | simple-fuzzy-search          | https://github.com/wataridori/simple-fuzzy-search              | A Simple Fuzzy Search Package for PHP                                      |
 
 
 ## Python 
