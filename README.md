@@ -60,7 +60,7 @@
 | ----: | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------- |
 |     1 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                      |
 |     2 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms |
-|     3 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2151 LeetCode Problems (Weekly Update)  |
+|     3 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2157 LeetCode Problems (Weekly Update)  |
 
 
 ## Dockerfile 
