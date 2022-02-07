@@ -26,6 +26,7 @@
   - [Others](#others)
   - [PHP](#php)
   - [Python](#python)
+  - [Ruby](#ruby)
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [TypeScript](#typescript)
@@ -304,6 +305,13 @@
 |    36 | pipelines                                     | https://github.com/kubeflow/pipelines                                            | Machine Learning Pipelines for Kubeflow                                                                                                                                                         |
 |    37 | netbox                                        | https://github.com/netbox-community/netbox                                       | Infrastructure resource modeling for network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev                                                                       |
 |    38 | netbox-docker                                 | https://github.com/netbox-community/netbox-docker                                | 🐳  Docker Image of NetBox                                                                                                                                                                      |
+
+
+## Ruby 
+
+| Index |               Name               |                          Repository URL                          |              Description               |
+| ----: | -------------------------------- | ---------------------------------------------------------------- | -------------------------------------- |
+|     1 | how-to-contribute-to-open-source | https://github.com/freeCodeCamp/how-to-contribute-to-open-source | A guide to contributing to open source |
 
 
 ## Shell 
