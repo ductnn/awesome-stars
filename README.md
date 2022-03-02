@@ -168,11 +168,12 @@
 
 ## HTML 
 
-| Index |       Name        |                       Repository URL                        |                    Description                     |
-| ----: | ----------------- | ----------------------------------------------------------- | -------------------------------------------------- |
-|     1 | 30-Days-of-Python | https://github.com/codingforentrepreneurs/30-Days-of-Python | Learn Python for the next 30 (or so) Days.         |
-|     2 | vnspoj.github.io  | https://github.com/vnspoj/vnspoj.github.io                  | 💪Tutorial SPOJ 💪                                 |
-|     3 | awesome-django    | https://github.com/wsvincent/awesome-django                 | A curated list of awesome things related to Django |
+| Index |       Name        |                       Repository URL                        |                                             Description                                             |
+| ----: | ----------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+|     1 | course-material   | https://github.com/in28minutes/course-material              | Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure. |
+|     2 | 30-Days-of-Python | https://github.com/codingforentrepreneurs/30-Days-of-Python | Learn Python for the next 30 (or so) Days.                                                          |
+|     3 | vnspoj.github.io  | https://github.com/vnspoj/vnspoj.github.io                  | 💪Tutorial SPOJ 💪                                                                                  |
+|     4 | awesome-django    | https://github.com/wsvincent/awesome-django                 | A curated list of awesome things related to Django                                                  |
 
 
 ## Java 
