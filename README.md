@@ -44,10 +44,11 @@
 
 | Index |  Name   |           Repository URL            |                                                                           Description                                                                            |
 | ----: | ------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | linux   | https://github.com/torvalds/linux   | Linux kernel source tree                                                                                                                                         |
-|     2 | blender | https://github.com/blender/blender  | Official mirror of Blender                                                                                                                                       |
-|     3 | One     | https://github.com/One-Language/One | One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient and performant software. (release as soon) 1️⃣ 🕐 🩱 |
-|     4 | wrk     | https://github.com/wg/wrk           | Modern HTTP benchmarking tool                                                                                                                                    |
+|     1 | netdata | https://github.com/netdata/netdata  | Real-time performance monitoring, done right! https://www.netdata.cloud                                                                                          |
+|     2 | linux   | https://github.com/torvalds/linux   | Linux kernel source tree                                                                                                                                         |
+|     3 | blender | https://github.com/blender/blender  | Official mirror of Blender                                                                                                                                       |
+|     4 | One     | https://github.com/One-Language/One | One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient and performant software. (release as soon) 1️⃣ 🕐 🩱 |
+|     5 | wrk     | https://github.com/wg/wrk           | Modern HTTP benchmarking tool                                                                                                                                    |
 
 
 ## C# # 
