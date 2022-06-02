@@ -65,10 +65,11 @@
 
 | Index |        Name        |                 Repository URL                 |                                   Description                                   |
 | ----: | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------- |
-|     1 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                              |
-|     2 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                      |
-|     3 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms |
-|     4 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2290 LeetCode Problems (Weekly Update)  |
+|     1 | dragonfly          | https://github.com/dragonflydb/dragonfly       | A modern replacement for Redis and Memcached                                    |
+|     2 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                              |
+|     3 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                      |
+|     4 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms |
+|     5 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2290 LeetCode Problems (Weekly Update)  |
 
 
 ## Dockerfile 
