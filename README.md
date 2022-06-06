@@ -17,6 +17,7 @@
   - [Groovy](#groovy)
   - [HCL](#hcl)
   - [HTML](#html)
+  - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jupyter Notebook](#jupyter-notebook)
@@ -174,7 +175,7 @@
 |    88 | kubectl-fuzzy                     | https://github.com/d-kuro/kubectl-fuzzy                             | This tool uses fzf(1)-like fuzzy-finder to do partial or fuzzy search of Kubernetes resources. Instead of specifying full resource names to kubectl commands, you can choose them from an interactive list that you can filter by typing a few characters.               |
 |    89 | kubectl-server-version            | https://github.com/bmuschko/kubectl-server-version                  | A kubectl plugin for rendering the Kubernetes server version.                                                                                                                                                                                                            |
 |    90 | gopass                            | https://github.com/gopasspw/gopass                                  | The slightly more awesome standard unix password manager for teams                                                                                                                                                                                                       |
-|    91 | minio                             | https://github.com/minio/minio                                      | Multi-Cloud Object Storage                                                                                                                                                                                                                                               |
+|    91 | minio                             | https://github.com/minio/minio                                      | Multi-Cloud :cloud: Object Storage                                                                                                                                                                                                                                       |
 |    92 | cobra                             | https://github.com/spf13/cobra                                      | A Commander for modern Go CLI interactions                                                                                                                                                                                                                               |
 |    93 | kubernetes-configmap-auto-update  | https://github.com/abhirockzz/kubernetes-configmap-auto-update      | Automatically update your Kubernetes app configuration using this technique                                                                                                                                                                                              |
 |    94 | kubectl-secretdata                | https://github.com/keisku/kubectl-secretdata                        | A kubectl plugin for viewing decoded Secret data with search flags.                                                                                                                                                                                                      |
@@ -240,6 +241,13 @@
 |     4 | 30-Days-of-Python | https://github.com/codingforentrepreneurs/30-Days-of-Python | Learn Python for the next 30 (or so) Days.                                                                         |
 |     5 | vnspoj.github.io  | https://github.com/vnspoj/vnspoj.github.io                  | 💪Tutorial SPOJ 💪                                                                                                 |
 |     6 | awesome-django    | https://github.com/wsvincent/awesome-django                 | A curated list of awesome things related to Django                                                                 |
+
+
+## Haskell 
+
+| Index |   Name   |            Repository URL            |                         Description                         |
+| ----: | -------- | ------------------------------------ | ----------------------------------------------------------- |
+|     1 | hadolint | https://github.com/hadolint/hadolint | Dockerfile linter, validate inline bash, written in Haskell |
 
 
 ## Java 
