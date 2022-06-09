@@ -70,7 +70,7 @@
 |     2 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                              |
 |     3 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                      |
 |     4 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms |
-|     5 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2290 LeetCode Problems (Weekly Update)  |
+|     5 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2296 LeetCode Problems (Weekly Update)  |
 
 
 ## Dockerfile 
@@ -222,14 +222,15 @@
 
 ## HCL 
 
-| Index |             Name              |                          Repository URL                           |                                               Description                                                |
-| ----: | ----------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-|     1 | terraform-aws-rds-aurora      | https://github.com/terraform-aws-modules/terraform-aws-rds-aurora | Terraform module which creates RDS Aurora resources on AWS 🇺🇦                                            |
-|     2 | terraform-aws-eks             | https://github.com/terraform-aws-modules/terraform-aws-eks        | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦 |
-|     3 | terraform-aws-gitlab-runner   | https://github.com/npalm/terraform-aws-gitlab-runner              | Terraform module for AWS GitLab runners on ec2 (spot) instances                                          |
-|     4 | aws-advanced                  | https://github.com/wolfgangunger/aws-advanced                     | aws advanced files. cloudformation stacks and more                                                       |
-|     5 | terraform-up-and-running-code | https://github.com/brikis98/terraform-up-and-running-code         | Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman                                  |
-|     6 | terraform-boilerplate         | https://github.com/trackit/terraform-boilerplate                  |                                                                                                          |
+| Index |               Name                |                          Repository URL                           |                                               Description                                                |
+| ----: | --------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+|     1 | Kubernetes-Starter-Kit-Developers | https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers | Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.   |
+|     2 | terraform-aws-rds-aurora          | https://github.com/terraform-aws-modules/terraform-aws-rds-aurora | Terraform module which creates RDS Aurora resources on AWS 🇺🇦                                            |
+|     3 | terraform-aws-eks                 | https://github.com/terraform-aws-modules/terraform-aws-eks        | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦 |
+|     4 | terraform-aws-gitlab-runner       | https://github.com/npalm/terraform-aws-gitlab-runner              | Terraform module for AWS GitLab runners on ec2 (spot) instances                                          |
+|     5 | aws-advanced                      | https://github.com/wolfgangunger/aws-advanced                     | aws advanced files. cloudformation stacks and more                                                       |
+|     6 | terraform-up-and-running-code     | https://github.com/brikis98/terraform-up-and-running-code         | Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman                                  |
+|     7 | terraform-boilerplate             | https://github.com/trackit/terraform-boilerplate                  |                                                                                                          |
 
 
 ## HTML 
