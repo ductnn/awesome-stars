@@ -229,15 +229,15 @@
 
 ## HCL 
 
-| Index |               Name                |                          Repository URL                           |                                               Description                                                |
-| ----: | --------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-|     1 | Kubernetes-Starter-Kit-Developers | https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers | Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.   |
-|     2 | terraform-aws-rds-aurora          | https://github.com/terraform-aws-modules/terraform-aws-rds-aurora | Terraform module which creates RDS Aurora resources on AWS 🇺🇦                                            |
-|     3 | terraform-aws-eks                 | https://github.com/terraform-aws-modules/terraform-aws-eks        | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦 |
-|     4 | terraform-aws-gitlab-runner       | https://github.com/npalm/terraform-aws-gitlab-runner              | Terraform module for AWS GitLab runners on ec2 (spot) instances                                          |
-|     5 | aws-advanced                      | https://github.com/wolfgangunger/aws-advanced                     | aws advanced files. cloudformation stacks and more                                                       |
-|     6 | terraform-up-and-running-code     | https://github.com/brikis98/terraform-up-and-running-code         | Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman                                  |
-|     7 | terraform-boilerplate             | https://github.com/trackit/terraform-boilerplate                  |                                                                                                          |
+| Index |               Name                |                          Repository URL                           |                                              Description                                               |
+| ----: | --------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+|     1 | Kubernetes-Starter-Kit-Developers | https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers | Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster. |
+|     2 | terraform-aws-rds-aurora          | https://github.com/terraform-aws-modules/terraform-aws-rds-aurora | Terraform module which creates RDS Aurora resources on AWS 🇺🇦                                          |
+|     3 | terraform-aws-eks                 | https://github.com/terraform-aws-modules/terraform-aws-eks        | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦             |
+|     4 | terraform-aws-gitlab-runner       | https://github.com/npalm/terraform-aws-gitlab-runner              | Terraform module for AWS GitLab runners on ec2 (spot) instances                                        |
+|     5 | aws-advanced                      | https://github.com/wolfgangunger/aws-advanced                     | aws advanced files. cloudformation stacks and more                                                     |
+|     6 | terraform-up-and-running-code     | https://github.com/brikis98/terraform-up-and-running-code         | Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman                                |
+|     7 | terraform-boilerplate             | https://github.com/trackit/terraform-boilerplate                  |                                                                                                        |
 
 
 ## HTML 
