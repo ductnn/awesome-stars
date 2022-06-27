@@ -71,7 +71,7 @@
 |     3 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                                                                                                                                          |
 |     4 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                                                                                                                                  |
 |     5 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms                                                                                                             |
-|     6 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2312 LeetCode Problems (Weekly Update)                                                                                                              |
+|     6 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2322 LeetCode Problems (Weekly Update)                                                                                                              |
 
 
 ## Dockerfile 
