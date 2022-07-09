@@ -459,10 +459,11 @@
 
 ## Ruby 
 
-| Index |               Name               |                          Repository URL                          |                     Description                     |
-| ----: | -------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------- |
-|     1 | brew                             | https://github.com/Homebrew/brew                                 | 🍺 The missing package manager for macOS (or Linux) |
-|     2 | how-to-contribute-to-open-source | https://github.com/freeCodeCamp/how-to-contribute-to-open-source | A guide to contributing to open source              |
+| Index |               Name               |                          Repository URL                          |                                Description                                |
+| ----: | -------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------- |
+|     1 | vagrant                          | https://github.com/hashicorp/vagrant                             | Vagrant is a tool for building and distributing development environments. |
+|     2 | brew                             | https://github.com/Homebrew/brew                                 | 🍺 The missing package manager for macOS (or Linux)                       |
+|     3 | how-to-contribute-to-open-source | https://github.com/freeCodeCamp/how-to-contribute-to-open-source | A guide to contributing to open source                                    |
 
 
 ## Rust 
