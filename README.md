@@ -48,11 +48,12 @@
 
 | Index |  Name   |           Repository URL            |                                                                           Description                                                                            |
 | ----: | ------- | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | netdata | https://github.com/netdata/netdata  | Real-time performance monitoring, done right! https://www.netdata.cloud                                                                                          |
-|     2 | linux   | https://github.com/torvalds/linux   | Linux kernel source tree                                                                                                                                         |
-|     3 | blender | https://github.com/blender/blender  | Official mirror of Blender                                                                                                                                       |
-|     4 | One     | https://github.com/One-Language/One | One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient and performant software. (release as soon) 1️⃣ 🕐 🩱 |
-|     5 | wrk     | https://github.com/wg/wrk           | Modern HTTP benchmarking tool                                                                                                                                    |
+|     1 | fzy     | https://github.com/jhawthorn/fzy    | :mag: A simple, fast fuzzy finder for the terminal                                                                                                               |
+|     2 | netdata | https://github.com/netdata/netdata  | Real-time performance monitoring, done right! https://www.netdata.cloud                                                                                          |
+|     3 | linux   | https://github.com/torvalds/linux   | Linux kernel source tree                                                                                                                                         |
+|     4 | blender | https://github.com/blender/blender  | Official mirror of Blender                                                                                                                                       |
+|     5 | One     | https://github.com/One-Language/One | One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient and performant software. (release as soon) 1️⃣ 🕐 🩱 |
+|     6 | wrk     | https://github.com/wg/wrk           | Modern HTTP benchmarking tool                                                                                                                                    |
 
 
 ## C# # 
