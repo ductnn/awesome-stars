@@ -34,7 +34,7 @@
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [TypeScript](#typescript)
-  - [Vim script](#vim-script)
+  - [Vim Script](#vim-script)
   - [Vue](#vue)
   - [Zig](#zig)
 
@@ -658,7 +658,7 @@
 |    20 | aws-boilerplate                                   | https://github.com/apptension/aws-boilerplate                                     | Opinionated full stack web app's boilerplate, ready to be deployed to AWS platform.                                                                                                                      |
 
 
-## Vim script 
+## Vim Script 
 
 | Index |   Name   |           Repository URL           |            Description            |
 | ----: | -------- | ---------------------------------- | --------------------------------- |
