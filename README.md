@@ -333,16 +333,16 @@
 
 ## Java 
 
-| Index |          Name           |                    Repository URL                     |                                            Description                                            |
-| ----: | ----------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-|     1 | jmeter                  | https://github.com/apache/jmeter                      | Apache JMeter                                                                                     |
-|     2 | TelegramBots            | https://github.com/rubenlagus/TelegramBots            | Java library to create bots using Telegram Bots API                                               |
-|     3 | Java-Sockets            | https://github.com/wangai/Java-Sockets                | A java Client-Server app that shows implementation of Java Socket programming                     |
-|     4 | java-socket-chat        | https://github.com/toanbku/java-socket-chat           |                                                                                                   |
-|     5 | JavaFX_CRUD_Application | https://github.com/JinyKafe/JavaFX_CRUD_Application   | Simple User CRUD application. With JavaFx, Java 11, Spring Boot 2, JavaFx Weaver                  |
-|     6 | simple-java-maven-app   | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven. |
-|     7 | leetcode                | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                |
-|     8 | questdb                 | https://github.com/questdb/questdb                    | An open source SQL database designed to process time series data, faster                          |
+| Index |          Name           |                    Repository URL                     |                                                   Description                                                    |
+| ----: | ----------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+|     1 | jmeter                  | https://github.com/apache/jmeter                      | Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services |
+|     2 | TelegramBots            | https://github.com/rubenlagus/TelegramBots            | Java library to create bots using Telegram Bots API                                                              |
+|     3 | Java-Sockets            | https://github.com/wangai/Java-Sockets                | A java Client-Server app that shows implementation of Java Socket programming                                    |
+|     4 | java-socket-chat        | https://github.com/toanbku/java-socket-chat           |                                                                                                                  |
+|     5 | JavaFX_CRUD_Application | https://github.com/JinyKafe/JavaFX_CRUD_Application   | Simple User CRUD application. With JavaFx, Java 11, Spring Boot 2, JavaFx Weaver                                 |
+|     6 | simple-java-maven-app   | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.                |
+|     7 | leetcode                | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                               |
+|     8 | questdb                 | https://github.com/questdb/questdb                    | An open source SQL database designed to process time series data, faster                                         |
 
 
 ## JavaScript 
