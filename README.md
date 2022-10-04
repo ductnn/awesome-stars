@@ -300,19 +300,19 @@
 
 ## HCL 
 
-| Index |                 Name                  |                          Repository URL                           |                                              Description                                               |
-| ----: | ------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-|     1 | terraform-aws-polygon-technology-edge | https://github.com/aws-ia/terraform-aws-polygon-technology-edge   | Polygon Edge Terraform module for building Ethereum-compatible blockchain networks in the AWS Cloud    |
-|     2 | terraform-on-aws-eks                  | https://github.com/stacksimplify/terraform-on-aws-eks             | Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos                                           |
-|     3 | Terraform101                          | https://github.com/Academy4U/Terraform101                         | HashiCorp Teraform IaC (Infrastructure as Code) on AWS ⚡                                              |
-|     4 | terraform-aws-eks-blueprints          | https://github.com/aws-ia/terraform-aws-eks-blueprints            | Configure and deploy complete EKS clusters.                                                            |
-|     5 | Kubernetes-Starter-Kit-Developers     | https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers | Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster. |
-|     6 | terraform-aws-rds-aurora              | https://github.com/terraform-aws-modules/terraform-aws-rds-aurora | Terraform module which creates RDS Aurora resources on AWS 🇺🇦                                          |
-|     7 | terraform-aws-eks                     | https://github.com/terraform-aws-modules/terraform-aws-eks        | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦             |
-|     8 | terraform-aws-gitlab-runner           | https://github.com/npalm/terraform-aws-gitlab-runner              | Terraform module for AWS GitLab runners on ec2 (spot) instances                                        |
-|     9 | aws-advanced                          | https://github.com/wolfgangunger/aws-advanced                     | aws advanced files. cloudformation stacks and more                                                     |
-|    10 | terraform-up-and-running-code         | https://github.com/brikis98/terraform-up-and-running-code         | Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman                                |
-|    11 | terraform-boilerplate                 | https://github.com/trackit/terraform-boilerplate                  |                                                                                                        |
+| Index |                 Name                  |                          Repository URL                           |                                                   Description                                                    |
+| ----: | ------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+|     1 | terraform-aws-polygon-technology-edge | https://github.com/aws-ia/terraform-aws-polygon-technology-edge   | Polygon Edge Terraform module for building Ethereum-compatible blockchain networks in the AWS Cloud              |
+|     2 | terraform-on-aws-eks                  | https://github.com/stacksimplify/terraform-on-aws-eks             | Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos                                                     |
+|     3 | Terraform                             | https://github.com/Academy4U/Terraform                            | 🎯 HashiCorp's Terraform Infrastructure as Code (IaC) on AWS 🌥️ provides speed, scale, agility, and low cost. ⚡ |
+|     4 | terraform-aws-eks-blueprints          | https://github.com/aws-ia/terraform-aws-eks-blueprints            | Configure and deploy complete EKS clusters.                                                                      |
+|     5 | Kubernetes-Starter-Kit-Developers     | https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers | Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.           |
+|     6 | terraform-aws-rds-aurora              | https://github.com/terraform-aws-modules/terraform-aws-rds-aurora | Terraform module which creates RDS Aurora resources on AWS 🇺🇦                                                    |
+|     7 | terraform-aws-eks                     | https://github.com/terraform-aws-modules/terraform-aws-eks        | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦                       |
+|     8 | terraform-aws-gitlab-runner           | https://github.com/npalm/terraform-aws-gitlab-runner              | Terraform module for AWS GitLab runners on ec2 (spot) instances                                                  |
+|     9 | aws-advanced                          | https://github.com/wolfgangunger/aws-advanced                     | aws advanced files. cloudformation stacks and more                                                               |
+|    10 | terraform-up-and-running-code         | https://github.com/brikis98/terraform-up-and-running-code         | Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman                                          |
+|    11 | terraform-boilerplate                 | https://github.com/trackit/terraform-boilerplate                  |                                                                                                                  |
 
 
 ## HTML 
