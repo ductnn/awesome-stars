@@ -364,7 +364,7 @@
 |     5 | JavaFX_CRUD_Application | https://github.com/JinyKafe/JavaFX_CRUD_Application   | Simple User CRUD application. With JavaFx, Java 11, Spring Boot 2, JavaFx Weaver                                 |
 |     6 | simple-java-maven-app   | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.                |
 |     7 | leetcode                | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                               |
-|     8 | questdb                 | https://github.com/questdb/questdb                    | An open source SQL database designed to process time series data, faster                                         |
+|     8 | questdb                 | https://github.com/questdb/questdb                    | An open source time-series database for fast ingest and SQL queries                                              |
 
 
 ## JavaScript 
