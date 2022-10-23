@@ -696,9 +696,10 @@
 
 ## Vim Script 
 
-| Index |   Name   |           Repository URL           |            Description            |
-| ----: | -------- | ---------------------------------- | --------------------------------- |
-|     1 | dotfiles | https://github.com/nickjj/dotfiles | Settings for various tools I use. |
+| Index |     Name      |               Repository URL               |                   Description                    |
+| ----: | ------------- | ------------------------------------------ | ------------------------------------------------ |
+|     1 | nerdcommenter | https://github.com/preservim/nerdcommenter | Vim plugin for intensely nerdy commenting powers |
+|     2 | dotfiles      | https://github.com/nickjj/dotfiles         | Settings for various tools I use.                |
 
 
 ## Vue 
