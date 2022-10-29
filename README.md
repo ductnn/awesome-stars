@@ -356,17 +356,18 @@
 
 ## Java 
 
-| Index |          Name           |                    Repository URL                     |                                                   Description                                                    |
-| ----: | ----------------------- | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-|     1 | kubernetes-plugin       | https://github.com/jenkinsci/kubernetes-plugin        | Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment                                          |
-|     2 | jmeter                  | https://github.com/apache/jmeter                      | Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services |
-|     3 | TelegramBots            | https://github.com/rubenlagus/TelegramBots            | Java library to create bots using Telegram Bots API                                                              |
-|     4 | Java-Sockets            | https://github.com/wangai/Java-Sockets                | A java Client-Server app that shows implementation of Java Socket programming                                    |
-|     5 | java-socket-chat        | https://github.com/toanbku/java-socket-chat           |                                                                                                                  |
-|     6 | JavaFX_CRUD_Application | https://github.com/JinyKafe/JavaFX_CRUD_Application   | Simple User CRUD application. With JavaFx, Java 11, Spring Boot 2, JavaFx Weaver                                 |
-|     7 | simple-java-maven-app   | https://github.com/jenkins-docs/simple-java-maven-app | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.                |
-|     8 | leetcode                | https://github.com/gouthampradhan/leetcode            | Leetcode solutions                                                                                               |
-|     9 | questdb                 | https://github.com/questdb/questdb                    | An open source time-series database for fast ingest and SQL queries                                              |
+| Index |              Name              |                         Repository URL                          |                                                   Description                                                    |
+| ----: | ------------------------------ | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+|     1 | aws-eks-kubernetes-masterclass | https://github.com/stacksimplify/aws-eks-kubernetes-masterclass | AWS EKS Kubernetes - Masterclass \| DevOps, Microservices                                                         |
+|     2 | kubernetes-plugin              | https://github.com/jenkinsci/kubernetes-plugin                  | Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment                                          |
+|     3 | jmeter                         | https://github.com/apache/jmeter                                | Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services |
+|     4 | TelegramBots                   | https://github.com/rubenlagus/TelegramBots                      | Java library to create bots using Telegram Bots API                                                              |
+|     5 | Java-Sockets                   | https://github.com/wangai/Java-Sockets                          | A java Client-Server app that shows implementation of Java Socket programming                                    |
+|     6 | java-socket-chat               | https://github.com/toanbku/java-socket-chat                     |                                                                                                                  |
+|     7 | JavaFX_CRUD_Application        | https://github.com/JinyKafe/JavaFX_CRUD_Application             | Simple User CRUD application. With JavaFx, Java 11, Spring Boot 2, JavaFx Weaver                                 |
+|     8 | simple-java-maven-app          | https://github.com/jenkins-docs/simple-java-maven-app           | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.                |
+|     9 | leetcode                       | https://github.com/gouthampradhan/leetcode                      | Leetcode solutions                                                                                               |
+|    10 | questdb                        | https://github.com/questdb/questdb                              | An open source time-series database for fast ingest and SQL queries                                              |
 
 
 ## JavaScript 
