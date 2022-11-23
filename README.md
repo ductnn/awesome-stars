@@ -47,16 +47,17 @@
 
 ## C 
 
-| Index |   Name    |             Repository URL              |                               Description                               |
-| ----: | --------- | --------------------------------------- | ----------------------------------------------------------------------- |
-|     1 | tengine   | https://github.com/alibaba/tengine      | A distribution of Nginx with some advanced features                     |
-|     2 | htop      | https://github.com/htop-dev/htop        | htop - an interactive process viewer                                    |
-|     3 | rakelimit | https://github.com/cloudflare/rakelimit | A fair-share ratelimiter implemented in BPF                             |
-|     4 | fzy       | https://github.com/jhawthorn/fzy        | :mag: A simple, fast fuzzy finder for the terminal                      |
-|     5 | netdata   | https://github.com/netdata/netdata      | Real-time performance monitoring, done right! https://www.netdata.cloud |
-|     6 | linux     | https://github.com/torvalds/linux       | Linux kernel source tree                                                |
-|     7 | blender   | https://github.com/blender/blender      | Official mirror of Blender                                              |
-|     8 | wrk       | https://github.com/wg/wrk               | Modern HTTP benchmarking tool                                           |
+| Index |   Name    |             Repository URL              |                                                                                                            Description                                                                                                             |
+| ----: | --------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | kubeshark | https://github.com/kubeshark/kubeshark  | The API traffic viewer for Kubernetes providing deep visibility into all API traffic and payloads going in, out and across containers and pods inside a Kubernetes cluster. Think TCPDump and Wireshark re-invented for Kubernetes |
+|     2 | tengine   | https://github.com/alibaba/tengine      | A distribution of Nginx with some advanced features                                                                                                                                                                                |
+|     3 | htop      | https://github.com/htop-dev/htop        | htop - an interactive process viewer                                                                                                                                                                                               |
+|     4 | rakelimit | https://github.com/cloudflare/rakelimit | A fair-share ratelimiter implemented in BPF                                                                                                                                                                                        |
+|     5 | fzy       | https://github.com/jhawthorn/fzy        | :mag: A simple, fast fuzzy finder for the terminal                                                                                                                                                                                 |
+|     6 | netdata   | https://github.com/netdata/netdata      | Real-time performance monitoring, done right! https://www.netdata.cloud                                                                                                                                                            |
+|     7 | linux     | https://github.com/torvalds/linux       | Linux kernel source tree                                                                                                                                                                                                           |
+|     8 | blender   | https://github.com/blender/blender      | Official mirror of Blender                                                                                                                                                                                                         |
+|     9 | wrk       | https://github.com/wg/wrk               | Modern HTTP benchmarking tool                                                                                                                                                                                                      |
 
 
 ## C# # 
