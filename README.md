@@ -21,7 +21,6 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
-  - [Jinja](#jinja)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Lua](#lua)
   - [MATLAB](#matlab)
@@ -48,16 +47,17 @@
 
 ## C 
 
-| Index |   Name    |             Repository URL              |                               Description                               |
-| ----: | --------- | --------------------------------------- | ----------------------------------------------------------------------- |
-|     1 | tengine   | https://github.com/alibaba/tengine      | A distribution of Nginx with some advanced features                     |
-|     2 | htop      | https://github.com/htop-dev/htop        | htop - an interactive process viewer                                    |
-|     3 | rakelimit | https://github.com/cloudflare/rakelimit | A fair-share ratelimiter implemented in BPF                             |
-|     4 | fzy       | https://github.com/jhawthorn/fzy        | :mag: A simple, fast fuzzy finder for the terminal                      |
-|     5 | netdata   | https://github.com/netdata/netdata      | Real-time performance monitoring, done right! https://www.netdata.cloud |
-|     6 | linux     | https://github.com/torvalds/linux       | Linux kernel source tree                                                |
-|     7 | blender   | https://github.com/blender/blender      | Official mirror of Blender                                              |
-|     8 | wrk       | https://github.com/wg/wrk               | Modern HTTP benchmarking tool                                           |
+| Index |   Name    |             Repository URL              |                                                                           Description                                                                            |
+| ----: | --------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | tengine   | https://github.com/alibaba/tengine      | A distribution of Nginx with some advanced features                                                                                                              |
+|     2 | htop      | https://github.com/htop-dev/htop        | htop - an interactive process viewer                                                                                                                             |
+|     3 | rakelimit | https://github.com/cloudflare/rakelimit | A fair-share ratelimiter implemented in BPF                                                                                                                      |
+|     4 | fzy       | https://github.com/jhawthorn/fzy        | :mag: A simple, fast fuzzy finder for the terminal                                                                                                               |
+|     5 | netdata   | https://github.com/netdata/netdata      | Real-time performance monitoring, done right! https://www.netdata.cloud                                                                                          |
+|     6 | linux     | https://github.com/torvalds/linux       | Linux kernel source tree                                                                                                                                         |
+|     7 | blender   | https://github.com/blender/blender      | Official mirror of Blender                                                                                                                                       |
+|     8 | One       | https://github.com/One-Language/One     | One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient and performant software. (release as soon) 1️⃣ 🕐 🩱 |
+|     9 | wrk       | https://github.com/wg/wrk               | Modern HTTP benchmarking tool                                                                                                                                    |
 
 
 ## C# # 
@@ -337,20 +337,21 @@
 
 ## HCL 
 
-| Index |                 Name                  |                          Repository URL                           |                                                   Description                                                    |
-| ----: | ------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-|     1 | terraform-best-practices              | https://github.com/antonbabenko/terraform-best-practices          | Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴🇹🇷                                     |
-|     2 | terraform-aws-polygon-technology-edge | https://github.com/aws-ia/terraform-aws-polygon-technology-edge   | Polygon Edge Terraform module for building Ethereum-compatible blockchain networks in the AWS Cloud              |
-|     3 | terraform-on-aws-eks                  | https://github.com/stacksimplify/terraform-on-aws-eks             | Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos                                                     |
-|     4 | Terraform                             | https://github.com/OceanSoftIO/Terraform                          | 🎯 HashiCorp's Terraform Infrastructure as Code (IaC) on AWS 🌥️ provides speed, scale, agility, and low cost. ⚡ |
-|     5 | terraform-aws-eks-blueprints          | https://github.com/aws-ia/terraform-aws-eks-blueprints            | Configure and deploy complete EKS clusters.                                                                      |
-|     6 | Kubernetes-Starter-Kit-Developers     | https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers | Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.           |
-|     7 | terraform-aws-rds-aurora              | https://github.com/terraform-aws-modules/terraform-aws-rds-aurora | Terraform module which creates RDS Aurora resources on AWS 🇺🇦                                                    |
-|     8 | terraform-aws-eks                     | https://github.com/terraform-aws-modules/terraform-aws-eks        | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦                       |
-|     9 | terraform-aws-gitlab-runner           | https://github.com/npalm/terraform-aws-gitlab-runner              | Terraform module for AWS GitLab runners on ec2 (spot) instances                                                  |
-|    10 | aws-advanced                          | https://github.com/wolfgangunger/aws-advanced                     | aws advanced files. cloudformation stacks and more                                                               |
-|    11 | terraform-up-and-running-code         | https://github.com/brikis98/terraform-up-and-running-code         | Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman                                          |
-|    12 | terraform-boilerplate                 | https://github.com/trackit/terraform-boilerplate                  |                                                                                                                  |
+| Index |                 Name                  |                          Repository URL                           |                                                                      Description                                                                      |
+| ----: | ------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | terraform-best-practices              | https://github.com/antonbabenko/terraform-best-practices          | Terraform Best Practices free ebook translated into 🇬🇧🇫🇷🇩🇪🇮🇩🇮🇹🇧🇷🇵🇱🇺🇦🇪🇸🇮🇱🇷🇴🇹🇷                                                                          |
+|     2 | terraform-aws-polygon-technology-edge | https://github.com/aws-ia/terraform-aws-polygon-technology-edge   | Polygon Edge Terraform module for building Ethereum-compatible blockchain networks in the AWS Cloud                                                   |
+|     3 | terraform-on-aws-eks                  | https://github.com/stacksimplify/terraform-on-aws-eks             | Terraform on AWS EKS Kubernetes IaC SRE- 50 Real-World Demos                                                                                          |
+|     4 | Terraform                             | https://github.com/OceanSoftIO/Terraform                          | 🎯 HashiCorp's Terraform Infrastructure as Code (IaC) on AWS 🌥️ provides speed, scale, agility, and low cost. ⚡                                      |
+|     5 | terraform-aws-eks-blueprints          | https://github.com/aws-ia/terraform-aws-eks-blueprints            | Configure and deploy complete EKS clusters.                                                                                                           |
+|     6 | Kubernetes-Starter-Kit-Developers     | https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers | Hands-on tutorial and Automation stack for an operations-ready DigitalOcean Kubernetes (DOKS) cluster.                                                |
+|     7 | home-ops                              | https://github.com/onedr0p/home-ops                               | A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible |
+|     8 | terraform-aws-rds-aurora              | https://github.com/terraform-aws-modules/terraform-aws-rds-aurora | Terraform module which creates RDS Aurora resources on AWS 🇺🇦                                                                                         |
+|     9 | terraform-aws-eks                     | https://github.com/terraform-aws-modules/terraform-aws-eks        | Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦                                                            |
+|    10 | terraform-aws-gitlab-runner           | https://github.com/npalm/terraform-aws-gitlab-runner              | Terraform module for AWS GitLab runners on ec2 (spot) instances                                                                                       |
+|    11 | aws-advanced                          | https://github.com/wolfgangunger/aws-advanced                     | aws advanced files. cloudformation stacks and more                                                                                                    |
+|    12 | terraform-up-and-running-code         | https://github.com/brikis98/terraform-up-and-running-code         | Code samples for the book "Terraform: Up & Running" by Yevgeniy Brikman                                                                               |
+|    13 | terraform-boilerplate                 | https://github.com/trackit/terraform-boilerplate                  |                                                                                                                                                       |
 
 
 ## HTML 
@@ -417,34 +418,26 @@
 |    22 | mongodb-cluster-docker                 | https://github.com/ductnn/mongodb-cluster-docker                          | MongoDB Cluster on Docker                                                                                                                                        |
 |    23 | node                                   | https://github.com/nodejs/node                                            | Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:                                                                                                  |
 |    24 | github-profile-readme-generator        | https://github.com/arturssmirnovs/github-profile-readme-generator         | GitHub profile readme generator allows you to create nice and simple GitHub profile readme files that will be included in your profile previews.                 |
-|    25 | One                                    | https://github.com/One-Language/One                                       | One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient and performant software. (release as soon) 1️⃣ 🕐 🩱 |
-|    26 | odoo                                   | https://github.com/odoo/odoo                                              | Odoo. Open Source Apps To Grow Your Business.                                                                                                                    |
-|    27 | knote-js                               | https://github.com/learnk8s/knote-js                                      | Code for the Knote course with Node.js                                                                                                                           |
-|    28 | serverless-plugin-warmup               | https://github.com/juanjoDiaz/serverless-plugin-warmup                    | Keep your lambdas warm during winter. ♨                                                                                                                          |
-|    29 | nextjs-scraper-playground              | https://github.com/johnpolacek/nextjs-scraper-playground                  | Build and test your own web scraper APIs with Next.js API Routes and cheerio                                                                                     |
-|    30 | sorting-visualizer                     | https://github.com/manmodesanket/sorting-visualizer                       | Sorting algorithm Visualizer buit using VanillaJS                                                                                                                |
-|    31 | sort-visualizer                        | https://github.com/dharshakch97/sort-visualizer                           | This repository for the web application sorting visualizer which is built using HTML, CSS, JS                                                                    |
-|    32 | the-quotes-database                    | https://github.com/micheleriva/the-quotes-database                        | The repository containing the code for the "Fulltext search with ElasticSearch and Node on Docker" article                                                       |
-|    33 | microservices-demo                     | https://github.com/lucaschen/microservices-demo                           |                                                                                                                                                                  |
-|    34 | react-platformula-boilerplate          | https://github.com/unimonkiez/react-platformula-boilerplate               | Start developing a cross platform native app and website!                                                                                                        |
-|    35 | boilerplate-react                      | https://github.com/ConsenSys/boilerplate-react                            | React app boilerplate by ConsenSys France                                                                                                                        |
-|    36 | AWS-SAA-C02-Course                     | https://github.com/alozano-77/AWS-SAA-C02-Course                          | Personal notes for SAA-C02 test from: https://learn.cantrill.io                                                                                                  |
-|    37 | node-express-boilerplate               | https://github.com/hagopj13/node-express-boilerplate                      | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose                                                                    |
-|    38 | unit-testing-api-nodejs-jest           | https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest              |                                                                                                                                                                  |
-|    39 | nodejs-demo-app                        | https://github.com/YannMjl/nodejs-demo-app                                |                                                                                                                                                                  |
-|    40 | ductnn                                 | https://github.com/ductnn/ductnn                                          | :octocat: Github Profile                                                                                                                                         |
-|    41 | cinema-microservice                    | https://github.com/crizstian/cinema-microservice                          | Example of a cinema microservice                                                                                                                                 |
-|    42 | ductnn.github.io                       | https://github.com/ductnn/ductnn.github.io                                | My Blog                                                                                                                                                          |
-|    43 | ntmap                                  | https://github.com/den-it/ntmap                                           | Network topology map using Netbox as a data source                                                                                                               |
-|    44 | Demo-git                               | https://github.com/ductnn/Demo-git                                        | Demo Git                                                                                                                                                         |
-|    45 | codelomdom-demo                        | https://github.com/ductnn/codelomdom-demo                                 |                                                                                                                                                                  |
-
-
-## Jinja 
-
-| Index |   Name   |           Repository URL            |                                                                      Description                                                                      |
-| ----: | -------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | home-ops | https://github.com/onedr0p/home-ops | A mono repository for my home infrastructure and Kubernetes cluster which adheres to Infrastructure as Code (IaC) and GitOps practices where possible |
+|    25 | odoo                                   | https://github.com/odoo/odoo                                              | Odoo. Open Source Apps To Grow Your Business.                                                                                                                    |
+|    26 | knote-js                               | https://github.com/learnk8s/knote-js                                      | Code for the Knote course with Node.js                                                                                                                           |
+|    27 | serverless-plugin-warmup               | https://github.com/juanjoDiaz/serverless-plugin-warmup                    | Keep your lambdas warm during winter. ♨                                                                                                                          |
+|    28 | nextjs-scraper-playground              | https://github.com/johnpolacek/nextjs-scraper-playground                  | Build and test your own web scraper APIs with Next.js API Routes and cheerio                                                                                     |
+|    29 | sorting-visualizer                     | https://github.com/manmodesanket/sorting-visualizer                       | Sorting algorithm Visualizer buit using VanillaJS                                                                                                                |
+|    30 | sort-visualizer                        | https://github.com/dharshakch97/sort-visualizer                           | This repository for the web application sorting visualizer which is built using HTML, CSS, JS                                                                    |
+|    31 | the-quotes-database                    | https://github.com/micheleriva/the-quotes-database                        | The repository containing the code for the "Fulltext search with ElasticSearch and Node on Docker" article                                                       |
+|    32 | microservices-demo                     | https://github.com/lucaschen/microservices-demo                           |                                                                                                                                                                  |
+|    33 | react-platformula-boilerplate          | https://github.com/unimonkiez/react-platformula-boilerplate               | Start developing a cross platform native app and website!                                                                                                        |
+|    34 | boilerplate-react                      | https://github.com/ConsenSys/boilerplate-react                            | React app boilerplate by ConsenSys France                                                                                                                        |
+|    35 | AWS-SAA-C02-Course                     | https://github.com/alozano-77/AWS-SAA-C02-Course                          | Personal notes for SAA-C02 test from: https://learn.cantrill.io                                                                                                  |
+|    36 | node-express-boilerplate               | https://github.com/hagopj13/node-express-boilerplate                      | A boilerplate for building production-ready RESTful APIs using Node.js, Express, and Mongoose                                                                    |
+|    37 | unit-testing-api-nodejs-jest           | https://github.com/mohamedlotfe/unit-testing-api-nodejs-jest              |                                                                                                                                                                  |
+|    38 | nodejs-demo-app                        | https://github.com/YannMjl/nodejs-demo-app                                |                                                                                                                                                                  |
+|    39 | ductnn                                 | https://github.com/ductnn/ductnn                                          | :octocat: Github Profile                                                                                                                                         |
+|    40 | cinema-microservice                    | https://github.com/crizstian/cinema-microservice                          | Example of a cinema microservice                                                                                                                                 |
+|    41 | ductnn.github.io                       | https://github.com/ductnn/ductnn.github.io                                | My Blog                                                                                                                                                          |
+|    42 | ntmap                                  | https://github.com/den-it/ntmap                                           | Network topology map using Netbox as a data source                                                                                                               |
+|    43 | Demo-git                               | https://github.com/ductnn/Demo-git                                        | Demo Git                                                                                                                                                         |
+|    44 | codelomdom-demo                        | https://github.com/ductnn/codelomdom-demo                                 |                                                                                                                                                                  |
 
 
 ## Jupyter Notebook 
