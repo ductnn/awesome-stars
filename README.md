@@ -337,12 +337,11 @@
 
 ## Groovy 
 
-| Index |         Name         |                  Repository URL                  |                                                                   Description                                                                   |
-| ----: | -------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | jenkins-scripts      | https://github.com/cloudbees/jenkins-scripts     |                                                                                                                                                 |
-|     2 | awesome-kubernetes   | https://github.com/nubenetes/awesome-kubernetes  | A curated list of awesome references collected since 2018.                                                                                      |
-|     3 | devops-resources     | https://github.com/bregman-arie/devops-resources | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
-|     4 | gradle-docker-plugin | https://github.com/bmuschko/gradle-docker-plugin | Gradle plugin for managing Docker images and containers.                                                                                        |
+| Index |        Name        |                  Repository URL                  |                                                                   Description                                                                   |
+| ----: | ------------------ | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+|     1 | jenkins-scripts    | https://github.com/cloudbees/jenkins-scripts     |                                                                                                                                                 |
+|     2 | awesome-kubernetes | https://github.com/nubenetes/awesome-kubernetes  | A curated list of awesome references collected since 2018.                                                                                      |
+|     3 | devops-resources   | https://github.com/bregman-arie/devops-resources | DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP |
 
 
 ## HCL 
@@ -399,6 +398,7 @@
 |     8 | simple-java-maven-app          | https://github.com/jenkins-docs/simple-java-maven-app           | For an introductory tutorial on how to use Jenkins to build a simple Java application with Maven.                |
 |     9 | leetcode                       | https://github.com/gouthampradhan/leetcode                      | Leetcode solutions                                                                                               |
 |    10 | questdb                        | https://github.com/questdb/questdb                              | An open source time-series database for fast ingest and SQL queries                                              |
+|    11 | gradle-docker-plugin           | https://github.com/bmuschko/gradle-docker-plugin                | Gradle plugin for managing Docker images and containers.                                                         |
 
 
 ## JavaScript 
@@ -635,10 +635,11 @@
 
 ## Rust 
 
-| Index |         Name         |                  Repository URL                  |                            Description                             |
-| ----: | -------------------- | ------------------------------------------------ | ------------------------------------------------------------------ |
-|     1 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀             |
-|     2 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods |
+| Index |         Name         |                  Repository URL                  |                                             Description                                             |
+| ----: | -------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+|     1 | parseable            | https://github.com/parseablehq/parseable         | Simple, efficient & fast log storage and observability platform. Open source alternative to Splunk. |
+|     2 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                              |
+|     3 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                  |
 
 
 ## Shell 
@@ -654,7 +655,7 @@
 |     7 | kubectl-node-shell                 | https://github.com/kvaps/kubectl-node-shell                       | Exec into node via kubectl                                                                                                                                                                                                                                                                                                                                                     |
 |     8 | ssb                                | https://github.com/pwnesia/ssb                                    | Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server                                                                                                                                                                                                                                                                                                     |
 |     9 | DevOps-Golang-tools                | https://github.com/HariSekhon/DevOps-Golang-tools                 | DevOps Golang tools                                                                                                                                                                                                                                                                                                                                                            |
-|    10 | prowler                            | https://github.com/prowler-cloud/prowler                          | Prowler is an Open Source Security tool to perform Cloud security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.                                                    |
+|    10 | prowler                            | https://github.com/prowler-cloud/prowler                          | Prowler is an Open Source Security tool to perform Cloud Security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains hundreds of controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks.                                                    |
 |    11 | DevOps-Bash-tools                  | https://github.com/HariSekhon/DevOps-Bash-tools                   | 800+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, .tmux.conf, .psqlrc ... |
 |    12 | containers                         | https://github.com/bitnami/containers                             | Bitnami container images                                                                                                                                                                                                                                                                                                                                                       |
 |    13 | drawio-desktop                     | https://github.com/jgraph/drawio-desktop                          | Official electron build of draw.io                                                                                                                                                                                                                                                                                                                                             |
