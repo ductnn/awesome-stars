@@ -154,7 +154,7 @@
 |    43 | aws-eks-asg-rolling-update-handler | https://github.com/TwiN/aws-eks-asg-rolling-update-handler          | Handles rolling upgrades for AWS ASGs for EKS                                                                                                                                                                                                                            |
 |    44 | vault                              | https://github.com/hashicorp/vault                                  | A tool for secrets management, encryption as a service, and privileged access management                                                                                                                                                                                 |
 |    45 | gateway                            | https://github.com/envoyproxy/gateway                               | Manages Envoy Proxy as a standalone or Kubernetes-based application gateway                                                                                                                                                                                              |
-|    46 | gatus                              | https://github.com/TwiN/gatus                                       | ⛑ Automated service health dashboard                                                                                                                                                                                                                                     |
+|    46 | gatus                              | https://github.com/TwiN/gatus                                       | ⛑ Automated developer-oriented status page                                                                                                                                                                                                                               |
 |    47 | velero                             | https://github.com/vmware-tanzu/velero                              | Backup and migrate Kubernetes applications and their persistent volumes                                                                                                                                                                                                  |
 |    48 | haxmap                             | https://github.com/alphadose/haxmap                                 | Fastest and most memory efficient golang concurrent hashmap                                                                                                                                                                                                              |
 |    49 | node-feature-discovery             | https://github.com/kubernetes-sigs/node-feature-discovery           | Node feature discovery for Kubernetes                                                                                                                                                                                                                                    |
@@ -636,11 +636,11 @@
 
 ## Rust 
 
-| Index |         Name         |                  Repository URL                  |                                             Description                                             |
-| ----: | -------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-|     1 | parseable            | https://github.com/parseablehq/parseable         | Simple, efficient & fast log storage and observability platform. Open source alternative to Splunk. |
-|     2 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                              |
-|     3 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                  |
+| Index |         Name         |                  Repository URL                  |                                Description                                |
+| ----: | -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------- |
+|     1 | parseable            | https://github.com/parseablehq/parseable         | Lightweight, high performance, cloud native alternative to Elasticsearch. |
+|     2 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                    |
+|     3 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods        |
 
 
 ## Shell 
