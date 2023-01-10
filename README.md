@@ -90,7 +90,7 @@
 |     8 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                                                                                                                                          |
 |     9 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                                                                                                                                  |
 |    10 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms                                                                                                             |
-|    11 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2524 LeetCode Problems (Weekly Update)                                                                                                              |
+|    11 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2532 LeetCode Problems (Weekly Update)                                                                                                              |
 
 
 ## CSS 
@@ -665,11 +665,11 @@
 
 ## Rust 
 
-| Index |         Name         |                  Repository URL                  |                                Description                                |
-| ----: | -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------- |
-|     1 | parseable            | https://github.com/parseablehq/parseable         | Lightweight, high performance, cloud native alternative to Elasticsearch. |
-|     2 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                    |
-|     3 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods        |
+| Index |         Name         |                  Repository URL                  |                                                                   Description                                                                    |
+| ----: | -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+|     1 | parseable            | https://github.com/parseablehq/parseable         | Parseable is a modern log store and analysis engine built for developers. It is a lightweight, low latency, cloud native alternative to Elastic. |
+|     2 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                                           |
+|     3 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                                                               |
 
 
 ## Shell 
