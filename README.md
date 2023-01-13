@@ -90,7 +90,7 @@
 |     8 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                                                                                                                                          |
 |     9 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                                                                                                                                  |
 |    10 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms                                                                                                             |
-|    11 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2532 LeetCode Problems (Weekly Update)                                                                                                              |
+|    11 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2533 LeetCode Problems (Weekly Update)                                                                                                              |
 
 
 ## CSS 
