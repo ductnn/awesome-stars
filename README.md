@@ -92,7 +92,7 @@
 |    10 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                                                                                                                                          |
 |    11 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                                                                                                                                  |
 |    12 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms                                                                                                             |
-|    13 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2589 LeetCode Problems (Weekly Update)                                                                                                              |
+|    13 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2598 LeetCode Problems (Weekly Update)                                                                                                              |
 
 
 ## CSS 
@@ -712,10 +712,11 @@
 
 | Index |         Name         |                  Repository URL                  |                                                                      Description                                                                       |
 | ----: | -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     1 | RustScan             | https://github.com/RustScan/RustScan             | 🤖 The Modern Port Scanner 🤖                                                                                                                          |
-|     2 | parseable            | https://github.com/parseablehq/parseable         | Lightweight, low latency, cloud native log store and analysis engine. Centralise logs from all your environments for fast log analysis and resolution. |
-|     3 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                                                 |
-|     4 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                                                                     |
+|     1 | goxkey               | https://github.com/huytd/goxkey                  | Bộ gõ tiếng Việt không có chức năng gì ngoài gõ tiếng Việt...                                                                                          |
+|     2 | RustScan             | https://github.com/RustScan/RustScan             | 🤖 The Modern Port Scanner 🤖                                                                                                                          |
+|     3 | parseable            | https://github.com/parseablehq/parseable         | Lightweight, low latency, cloud native log store and analysis engine. Centralise logs from all your environments for fast log analysis and resolution. |
+|     4 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                                                 |
+|     5 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                                                                     |
 
 
 ## Shell 
