@@ -432,15 +432,16 @@
 
 ## HTML 
 
-| Index |       Name        |                       Repository URL                        |                                             Description                                             |
-| ----: | ----------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-|     1 | go101             | https://github.com/go101/go101                              | An up-to-date (unofficial) knowledge base for Go programming self learning                          |
-|     2 | devopsdays-web    | https://github.com/devopsdays/devopsdays-web                | This is the website for devopsdays                                                                  |
-|     3 | kubelabs          | https://github.com/collabnix/kubelabs                       | Get Started with Kubernetes                                                                         |
-|     4 | course-material   | https://github.com/in28minutes/course-material              | Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure. |
-|     5 | 30-Days-of-Python | https://github.com/codingforentrepreneurs/30-Days-of-Python | Learn Python for the next 30 (or so) Days.                                                          |
-|     6 | vnspoj.github.io  | https://github.com/vnspoj/vnspoj.github.io                  | 💪Tutorial SPOJ 💪                                                                                  |
-|     7 | awesome-django    | https://github.com/wsvincent/awesome-django                 | A curated list of awesome things related to Django                                                  |
+| Index |         Name         |                       Repository URL                        |                                             Description                                             |
+| ----: | -------------------- | ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+|     1 | from-monolith-to-k8s | https://github.com/salaboy/from-monolith-to-k8s             | Workshop-style guide for creating Cloud-Native applications running on top of Kubernetes            |
+|     2 | go101                | https://github.com/go101/go101                              | An up-to-date (unofficial) knowledge base for Go programming self learning                          |
+|     3 | devopsdays-web       | https://github.com/devopsdays/devopsdays-web                | This is the website for devopsdays                                                                  |
+|     4 | kubelabs             | https://github.com/collabnix/kubelabs                       | Get Started with Kubernetes                                                                         |
+|     5 | course-material      | https://github.com/in28minutes/course-material              | Course Material for in28minutes courses on Java, Spring Boot, DevOps, AWS, Google Cloud, and Azure. |
+|     6 | 30-Days-of-Python    | https://github.com/codingforentrepreneurs/30-Days-of-Python | Learn Python for the next 30 (or so) Days.                                                          |
+|     7 | vnspoj.github.io     | https://github.com/vnspoj/vnspoj.github.io                  | 💪Tutorial SPOJ 💪                                                                                  |
+|     8 | awesome-django       | https://github.com/wsvincent/awesome-django                 | A curated list of awesome things related to Django                                                  |
 
 
 ## Haskell 
@@ -712,11 +713,10 @@
 
 | Index |         Name         |                  Repository URL                  |                                                                      Description                                                                       |
 | ----: | -------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|     1 | goxkey               | https://github.com/huytd/goxkey                  | Bộ gõ tiếng Việt không có chức năng gì ngoài gõ tiếng Việt...                                                                                          |
-|     2 | RustScan             | https://github.com/RustScan/RustScan             | 🤖 The Modern Port Scanner 🤖                                                                                                                          |
-|     3 | parseable            | https://github.com/parseablehq/parseable         | Lightweight, low latency, cloud native log store and analysis engine. Centralise logs from all your environments for fast log analysis and resolution. |
-|     4 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                                                 |
-|     5 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                                                                     |
+|     1 | RustScan             | https://github.com/RustScan/RustScan             | 🤖 The Modern Port Scanner 🤖                                                                                                                          |
+|     2 | parseable            | https://github.com/parseablehq/parseable         | Lightweight, low latency, cloud native log store and analysis engine. Centralise logs from all your environments for fast log analysis and resolution. |
+|     3 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                                                 |
+|     4 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                                                                     |
 
 
 ## Shell 
