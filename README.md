@@ -32,6 +32,7 @@
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [Smarty](#smarty)
   - [TypeScript](#typescript)
@@ -722,6 +723,13 @@
 |     2 | parseable            | https://github.com/parseablehq/parseable         | Lightweight, low latency, cloud native log store and analysis engine. Centralise logs from all your environments for fast log analysis and resolution. |
 |     3 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                                                                 |
 |     4 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                                                                     |
+
+
+## Scala 
+
+| Index |     Name      |              Repository URL              |                    Description                     |
+| ----: | ------------- | ---------------------------------------- | -------------------------------------------------- |
+|     1 | the-algorithm | https://github.com/twitter/the-algorithm | Source code for Twitter's Recommendation Algorithm |
 
 
 ## Shell 
