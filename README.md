@@ -58,15 +58,16 @@
 
 | Index |   Name    |             Repository URL              |                                                                           Description                                                                            |
 | ----: | --------- | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | tengine   | https://github.com/alibaba/tengine      | A distribution of Nginx with some advanced features                                                                                                              |
-|     2 | htop      | https://github.com/htop-dev/htop        | htop - an interactive process viewer                                                                                                                             |
-|     3 | rakelimit | https://github.com/cloudflare/rakelimit | A fair-share ratelimiter implemented in BPF                                                                                                                      |
-|     4 | fzy       | https://github.com/jhawthorn/fzy        | :mag: A simple, fast fuzzy finder for the terminal                                                                                                               |
-|     5 | netdata   | https://github.com/netdata/netdata      | Real-time performance monitoring, done right! https://www.netdata.cloud                                                                                          |
-|     6 | linux     | https://github.com/torvalds/linux       | Linux kernel source tree                                                                                                                                         |
-|     7 | blender   | https://github.com/blender/blender      | Official mirror of Blender                                                                                                                                       |
-|     8 | One       | https://github.com/One-Language/One     | One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient and performant software. (release as soon) 1️⃣ 🕐 🩱 |
-|     9 | wrk       | https://github.com/wg/wrk               | Modern HTTP benchmarking tool                                                                                                                                    |
+|     1 | ucall     | https://github.com/unum-cloud/ucall     | Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings                                                                           |
+|     2 | tengine   | https://github.com/alibaba/tengine      | A distribution of Nginx with some advanced features                                                                                                              |
+|     3 | htop      | https://github.com/htop-dev/htop        | htop - an interactive process viewer                                                                                                                             |
+|     4 | rakelimit | https://github.com/cloudflare/rakelimit | A fair-share ratelimiter implemented in BPF                                                                                                                      |
+|     5 | fzy       | https://github.com/jhawthorn/fzy        | :mag: A simple, fast fuzzy finder for the terminal                                                                                                               |
+|     6 | netdata   | https://github.com/netdata/netdata      | Real-time performance monitoring, done right! https://www.netdata.cloud                                                                                          |
+|     7 | linux     | https://github.com/torvalds/linux       | Linux kernel source tree                                                                                                                                         |
+|     8 | blender   | https://github.com/blender/blender      | Official mirror of Blender                                                                                                                                       |
+|     9 | One       | https://github.com/One-Language/One     | One (onelang) is an open-source system programming language that makes it easy to build reliable, efficient and performant software. (release as soon) 1️⃣ 🕐 🩱 |
+|    10 | wrk       | https://github.com/wg/wrk               | Modern HTTP benchmarking tool                                                                                                                                    |
 
 
 ## C# # 
@@ -81,19 +82,18 @@
 
 | Index |        Name        |                 Repository URL                 |                                                                                         Description                                                                                         |
 | ----: | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     1 | ujrpc              | https://github.com/unum-cloud/ujrpc            | Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings                                                                                                      |
-|     2 | envoy              | https://github.com/envoyproxy/envoy            | Cloud-native high-performance edge/middle/service proxy                                                                                                                                     |
-|     3 | or-tools           | https://github.com/google/or-tools             | Google's Operations Research tools:                                                                                                                                                         |
-|     4 | container          | https://github.com/boostorg/container          | STL-like containers from Boost                                                                                                                                                              |
-|     5 | electron           | https://github.com/electron/electron           | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS                                                                                                                 |
-|     6 | ImHex              | https://github.com/WerWolv/ImHex               | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.                                                                                 |
-|     7 | Leetcode           | https://github.com/luliyucoordinate/Leetcode   | Play Leetcode with different programming language                                                                                                                                           |
-|     8 | typesense          | https://github.com/typesense/typesense         | Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences |
-|     9 | dragonfly          | https://github.com/dragonflydb/dragonfly       | A modern replacement for Redis and Memcached                                                                                                                                                |
-|    10 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                                                                                                                                          |
-|    11 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                                                                                                                                  |
-|    12 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms                                                                                                             |
-|    13 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2638 LeetCode Problems (Weekly Update)                                                                                                              |
+|     1 | envoy              | https://github.com/envoyproxy/envoy            | Cloud-native high-performance edge/middle/service proxy                                                                                                                                     |
+|     2 | or-tools           | https://github.com/google/or-tools             | Google's Operations Research tools:                                                                                                                                                         |
+|     3 | container          | https://github.com/boostorg/container          | STL-like containers from Boost                                                                                                                                                              |
+|     4 | electron           | https://github.com/electron/electron           | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS                                                                                                                 |
+|     5 | ImHex              | https://github.com/WerWolv/ImHex               | 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.                                                                                 |
+|     6 | Leetcode           | https://github.com/luliyucoordinate/Leetcode   | Play Leetcode with different programming language                                                                                                                                           |
+|     7 | typesense          | https://github.com/typesense/typesense         | Open Source alternative to Algolia and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences |
+|     8 | dragonfly          | https://github.com/dragonflydb/dragonfly       | A modern replacement for Redis and Memcached                                                                                                                                                |
+|     9 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                                                                                                                                          |
+|    10 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                                                                                                                                  |
+|    11 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms                                                                                                             |
+|    12 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2638 LeetCode Problems (Weekly Update)                                                                                                              |
 
 
 ## CSS 
@@ -725,12 +725,12 @@
 
 ## Rust 
 
-| Index |         Name         |                  Repository URL                  |                                                   Description                                                   |
-| ----: | -------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
-|     1 | RustScan             | https://github.com/RustScan/RustScan             | 🤖 The Modern Port Scanner 🤖                                                                                   |
-|     2 | parseable            | https://github.com/parseablehq/parseable         | Parseable is a lightweight log observability system written in Rust. It is built for cloud native environments. |
-|     3 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                          |
-|     4 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                              |
+| Index |         Name         |                  Repository URL                  |                                                Description                                                |
+| ----: | -------------------- | ------------------------------------------------ | --------------------------------------------------------------------------------------------------------- |
+|     1 | RustScan             | https://github.com/RustScan/RustScan             | 🤖 The Modern Port Scanner 🤖                                                                             |
+|     2 | parseable            | https://github.com/parseablehq/parseable         | Parseable is a log analytics system written in Rust. It is built for high throughput log ingestion cases. |
+|     3 | gitui                | https://github.com/extrawurst/gitui              | Blazing 💥 fast terminal-ui for git written in rust 🦀                                                    |
+|     4 | pod-lifetime-limiter | https://github.com/nuetoban/pod-lifetime-limiter | ⏱ Kubernetes operator that allows to set maximum lifetime for pods                                        |
 
 
 ## Scala 
