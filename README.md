@@ -29,6 +29,7 @@
   - [Mustache](#mustache)
   - [Others](#others)
   - [PHP](#php)
+  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -227,7 +228,7 @@
 |   103 | Go-for-DevOps                      | https://github.com/PacktPublishing/Go-for-DevOps                    | Go for DevOps, published by Packt                                                                                                                                                                                                                                                                                       |
 |   104 | lookup                             | https://github.com/ductnn/lookup                                    | LOOKUP is a simple tool check IP informations, NS(Name Server), A records, MX records, ...                                                                                                                                                                                                                              |
 |   105 | image-layer-provenance             | https://github.com/deislabs/image-layer-provenance                  | Container image provenance spec that allows tracing CVEs detected in registry images back to a CVE's source of origin.                                                                                                                                                                                                  |
-|   106 | coroot                             | https://github.com/coroot/coroot                                    | A zero-instrumentation observability tool for microservice architectures.                                                                                                                                                                                                                                               |
+|   106 | coroot                             | https://github.com/coroot/coroot                                    | Coroot is an open-source eBPF-based observability tool that turns telemetry data into actionable insights, helping you identify and resolve application issues quickly                                                                                                                                                  |
 |   107 | aws-eks-asg-rolling-update-handler | https://github.com/TwiN/aws-eks-asg-rolling-update-handler          | Handles rolling upgrades for AWS ASGs on EKS                                                                                                                                                                                                                                                                            |
 |   108 | vault                              | https://github.com/hashicorp/vault                                  | A tool for secrets management, encryption as a service, and privileged access management                                                                                                                                                                                                                                |
 |   109 | gateway                            | https://github.com/envoyproxy/gateway                               | Manages Envoy Proxy as a standalone or Kubernetes-based application gateway                                                                                                                                                                                                                                             |
@@ -633,6 +634,13 @@
 |     1 | dockerlabs                   | https://github.com/collabnix/dockerlabs                        | Docker  - Beginners \| Intermediate \| Advanced                              |
 |     2 | github-profile-views-counter | https://github.com/arturssmirnovs/github-profile-views-counter | Github new features README profile views counter made with Yii2 framework. |
 |     3 | simple-fuzzy-search          | https://github.com/wataridori/simple-fuzzy-search              | A Simple Fuzzy Search Package for PHP                                      |
+
+
+## PowerShell 
+
+| Index |           Name           |                      Repository URL                       |           Description           |
+| ----: | ------------------------ | --------------------------------------------------------- | ------------------------------- |
+|     1 | docker-kubernetes-course | https://github.com/HoussemDellai/docker-kubernetes-course | Demoing Kubernetes/AKS features |
 
 
 ## Python 
