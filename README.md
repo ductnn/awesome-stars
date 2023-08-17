@@ -29,7 +29,6 @@
   - [Mustache](#mustache)
   - [Others](#others)
   - [PHP](#php)
-  - [PowerShell](#powershell)
   - [Python](#python)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -71,8 +70,9 @@
 
 | Index |              Name              |                        Repository URL                        |                            Description                            |
 | ----: | ------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------- |
-|     1 | unity-websocket-multiplayer    | https://github.com/hsadler/unity-websocket-multiplayer       | POC for a Unity game client and dedicated server with websockets! |
-|     2 | mongodb-cluster-docker-compose | https://github.com/minhhungit/mongodb-cluster-docker-compose | docker-compose for mongodb cluster sharded with replication       |
+|     1 | docker-kubernetes-course       | https://github.com/HoussemDellai/docker-kubernetes-course    | Demoing Kubernetes/AKS features                                   |
+|     2 | unity-websocket-multiplayer    | https://github.com/hsadler/unity-websocket-multiplayer       | POC for a Unity game client and dedicated server with websockets! |
+|     3 | mongodb-cluster-docker-compose | https://github.com/minhhungit/mongodb-cluster-docker-compose | docker-compose for mongodb cluster sharded with replication       |
 
 
 ## C++ 
@@ -92,7 +92,7 @@
 |    11 | IoT-For-Beginners  | https://github.com/microsoft/IoT-For-Beginners | 12 Weeks, 24 Lessons, IoT for All!                                                                                                                                                                     |
 |    12 | kubedoom           | https://github.com/storax/kubedoom             | Kill Kubernetes pods by playing Id's DOOM!                                                                                                                                                             |
 |    13 | sound-of-sorting   | https://github.com/bingmann/sound-of-sorting   | The Sound of Sorting - "Audibilization" and Visualization of Sorting Algorithms                                                                                                                        |
-|    14 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2814 LeetCode Problems (Weekly Update)                                                                                                                         |
+|    14 | LeetCode-Solutions | https://github.com/kamyu104/LeetCode-Solutions | 🏋️ Python / Modern C++ Solutions of All 2818 LeetCode Problems (Weekly Update)                                                                                                                         |
 
 
 ## CSS 
@@ -669,13 +669,6 @@
 |     1 | dockerlabs                   | https://github.com/collabnix/dockerlabs                        | Docker  - Beginners \| Intermediate \| Advanced                              |
 |     2 | github-profile-views-counter | https://github.com/arturssmirnovs/github-profile-views-counter | Github new features README profile views counter made with Yii2 framework. |
 |     3 | simple-fuzzy-search          | https://github.com/wataridori/simple-fuzzy-search              | A Simple Fuzzy Search Package for PHP                                      |
-
-
-## PowerShell 
-
-| Index |           Name           |                      Repository URL                       |           Description           |
-| ----: | ------------------------ | --------------------------------------------------------- | ------------------------------- |
-|     1 | docker-kubernetes-course | https://github.com/HoussemDellai/docker-kubernetes-course | Demoing Kubernetes/AKS features |
 
 
 ## Python 
