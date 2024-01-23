@@ -567,10 +567,11 @@
 
 ## Jupyter Notebook 
 
-| Index |           Name            |                   Repository URL                    |                                   Description                                   |
-| ----: | ------------------------- | --------------------------------------------------- | ------------------------------------------------------------------------------- |
-|     1 | distributed-system-design | https://github.com/gitgik/distributed-system-design | A curated collection of approaches to creating large scale distributed systems. |
-|     2 | Youtube_crawler           | https://github.com/DiproMondal/Youtube_crawler      | This is a youtube crawler created to extract video information.                 |
+| Index |            Name             |                      Repository URL                      |                                                   Description                                                    |
+| ----: | --------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+|     1 | generative-ai-for-beginners | https://github.com/microsoft/generative-ai-for-beginners | 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/ |
+|     2 | distributed-system-design   | https://github.com/gitgik/distributed-system-design      | A curated collection of approaches to creating large scale distributed systems.                                  |
+|     3 | Youtube_crawler             | https://github.com/DiproMondal/Youtube_crawler           | This is a youtube crawler created to extract video information.                                                  |
 
 
 ## Lua 
